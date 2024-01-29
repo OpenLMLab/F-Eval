@@ -1,0 +1,15 @@
+{"label": 0, "prompt": "Birds can fly, penguins are birds, so", "annotation": "Penguins are birds,","answer":"penguins can't fly."}
+{"label": 16, "prompt": "Trains can travel fast on rails, cars have wheels, so", "annotation": "Cars have wheels,", "answer": "cars can't drive on rails"}
+{"label": 17, "prompt": "Fish can breathe underwater, cats are animals, so", "annotation": "Cats are animals,", "answer": "cat can't breathe underwater"}
+{"label": 18, "prompt": "Some people can run 500 meters in 10 seconds, Xiao Ming is a person, so", "annotation": "Xiao Ming is a person,", "answer": "Xiao Ming cannot run 500 meters in 10 seconds."}
+{"label": 19, "prompt": "The elephant is the largest animal on land, the whale is an animal, so", "annotation": "Whales are animals,", "answer": "whale is the largest animals in the sea."}
+{"label": 20, "prompt": "The sun rises from the east every day, the moon is in the sky, so", "annotation": "The moon is in the sky,", "answer": "The moon rises in the east every day, but the position of the moon's rise is not fixed, but varies with the dates of the lunar calendar."}
+{"label": 21, "prompt": "People can speak, babies are people, so", "annotation": "Babies are people,", "answer": "babies cannot speak"}
+{"label": 22, "prompt": "All books are made of paper, e-books are books, so", "annotation": "E-books are books,", "answer": "e-books are not made of paper"}
+{"label": 23, "prompt": "Most mammals have hair, whales are mammals, so", "annotation": "Whales are mammals,", "answer": "whales don't have hair"}
+{"label": 24, "prompt": "Birds don't swim, penguins are birds, so", "annotation": "Penguins are birds,", "answer": "penguins can swim"}
+{"label": 25, "prompt": "Aircraft have wings, helicopters are aircraft, so", "annotation": "Helicopters are aircraft,", "answer": "helicopters don't have wings"}
+{"label": 26, "prompt": "Software needs to be installed separately, the operating system is software, so", "annotation": "The operating system is software,", "answer": "The operating system donot need to be installed separately."}
+{"label": 27, "prompt": "Transportation tools need fuel, bicycles are transportation tools, so", "annotation": "Bicycles are transportation tools,", "answer": "Bicycles don't need fuel."}
+{"label": 28, "prompt": "Metals are conductive, there are metal parts on wooden chairs, so", "annotation": "There are metal parts on wooden chairs,", "answer": "wooden chairs do not conductive"}
+{"label": 0, "prompt": "Most animals have four legs, snakes are animals, so", "annotation": "snakes are animals,", "answer":"Snakes don't have four legs."}

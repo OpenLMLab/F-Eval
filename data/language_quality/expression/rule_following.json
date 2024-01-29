@@ -1,0 +1,566 @@
+[
+ {
+  "prompt": "七一 凄丽 妻儿 戚串 期丧 栖丘饮谷",
+  "label": "{\"task\": \"first_voice\", \"prompt\": \"七一 凄丽 妻儿 戚串 期丧 栖丘饮谷\", \"ans\": \"qī\"}"
+ },
+ {
+  "prompt": "丈丈 仗下 帐下 杖义 胀库 账主子",
+  "label": "{\"task\": \"first_voice\", \"prompt\": \"丈丈 仗下 帐下 杖义 胀库 账主子\", \"ans\": \"zhànɡ\"}"
+ },
+ {
+  "prompt": "与世俯仰 宇下 羽乡 语不惊人 雨丝",
+  "label": "{\"task\": \"first_voice\", \"prompt\": \"与世俯仰 宇下 羽乡 语不惊人 雨丝\", \"ans\": \"yǔ\"}"
+ },
+ {
+  "prompt": "丐乞 概不由己 溉导 盖不由己 钙化",
+  "label": "{\"task\": \"first_voice\", \"prompt\": \"丐乞 概不由己 溉导 盖不由己 钙化\", \"ans\": \"ɡài\"}"
+ },
+ {
+  "prompt": "世上 事上 侍丁 势不两全 嗜书 士为知己者死",
+  "label": "{\"task\": \"first_voice\", \"prompt\": \"世上 事上 侍丁 势不两全 嗜书 士为知己者死\", \"ans\": \"shì\"}"
+ },
+ {
+  "prompt": "丝丝 司业 嘶丑 思不出位 撕剥 斯世",
+  "label": "{\"task\": \"first_voice\", \"prompt\": \"丝丝 司业 嘶丑 思不出位 撕剥 斯世\", \"ans\": \"sī\"}"
+ },
+ {
+  "prompt": "严丝合缝 岩下电 延世 檐冰 沿习 炎上",
+  "label": "{\"task\": \"first_voice\", \"prompt\": \"严丝合缝 岩下电 延世 檐冰 沿习 炎上\", \"ans\": \"yán\"}"
+ },
+ {
+  "prompt": "丰上杀下 封一 峰会 枫人 疯人 蜂出并作",
+  "label": "{\"task\": \"first_voice\", \"prompt\": \"丰上杀下 封一 峰会 枫人 疯人 蜂出并作\", \"ans\": \"fēnɡ\"}"
+ },
+ {
+  "prompt": "临下 林下 淋头盖脑 琳宇 磷乱 邻亚",
+  "label": "{\"task\": \"first_voice\", \"prompt\": \"临下 林下 淋头盖脑 琳宇 磷乱 邻亚\", \"ans\": \"lín\"}"
+ },
+ {
+  "prompt": "丽事 例举 俐亮 利上生利 力不从心 励世",
+  "label": "{\"task\": \"first_voice\", \"prompt\": \"丽事 例举 俐亮 利上生利 力不从心 励世\", \"ans\": \"lì\"}"
+ },
+ {
+  "prompt": "乙 乞 也 习 乡 买",
+  "label": "{\"task\": \"radicals\", \"ans\": \"乙\", \"prompt\": \"乙 乞 也 习 乡 买\"}"
+ },
+ {
+  "prompt": "十 千 午 升 半 协",
+  "label": "{\"task\": \"radicals\", \"ans\": \"十\", \"prompt\": \"十 千 午 升 半 协\"}"
+ },
+ {
+  "prompt": "厂 厅 历 厉 压 厌",
+  "label": "{\"task\": \"radicals\", \"ans\": \"厂\", \"prompt\": \"厂 厅 历 厉 压 厌\"}"
+ },
+ {
+  "prompt": "人 个 介 从 今 仓",
+  "label": "{\"task\": \"radicals\", \"ans\": \"人\", \"prompt\": \"人 个 介 从 今 仓\"}"
+ },
+ {
+  "prompt": "刀 刃 切 分 争 龟",
+  "label": "{\"task\": \"radicals\", \"ans\": \"刀\", \"prompt\": \"刀 刃 切 分 争 龟\"}"
+ },
+ {
+  "prompt": "力 办 劝 功 务 加",
+  "label": "{\"task\": \"radicals\", \"ans\": \"力\", \"prompt\": \"力 办 劝 功 务 加\"}"
+ },
+ {
+  "prompt": "又 及 叉 友 反 双",
+  "label": "{\"task\": \"radicals\", \"ans\": \"又\", \"prompt\": \"又 及 叉 友 反 双\"}"
+ },
+ {
+  "prompt": "工 巨 巧 左 巩 项",
+  "label": "{\"task\": \"radicals\", \"ans\": \"工\", \"prompt\": \"工 巨 巧 左 巩 项\"}"
+ },
+ {
+  "prompt": "土 圣 圾 地 场 在",
+  "label": "{\"task\": \"radicals\", \"ans\": \"土\", \"prompt\": \"土 圣 圾 地 场 在\"}"
+ },
+ {
+  "prompt": "才 扎 打 扑 扒 扔",
+  "label": "{\"task\": \"radicals\", \"ans\": \"扌\", \"prompt\": \"才 扎 打 扑 扒 扔\"}"
+ },
+ {
+  "prompt": "小 少 尘 尖 尚 尝",
+  "label": "{\"task\": \"radicals\", \"ans\": \"小\", \"prompt\": \"小 少 尘 尖 尚 尝\"}"
+ },
+ {
+  "prompt": "七一 七七 七七事变 七七八八 七上八下 七上八落",
+  "label": "{\"task\": \"first_char\", \"ans\": \"七\", \"prompt\": \"七一 七七 七七事变 七七八八 七上八下 七上八落\"}"
+ },
+ {
+  "prompt": "丈丈 丈二 丈二和尚 丈人 丈人山 丈人行",
+  "label": "{\"task\": \"first_char\", \"ans\": \"丈\", \"prompt\": \"丈丈 丈二 丈二和尚 丈人 丈人山 丈人行\"}"
+ },
+ {
+  "prompt": "与世俯仰 与世推移 与世无争 与世无竞 与世沈浮 与世沉浮",
+  "label": "{\"task\": \"first_char\", \"ans\": \"与\", \"prompt\": \"与世俯仰 与世推移 与世无争 与世无竞 与世沈浮 与世沉浮\"}"
+ },
+ {
+  "prompt": "专一 专一不移 专专 专业 专业户 专业技术职务",
+  "label": "{\"task\": \"first_char\", \"ans\": \"专\", \"prompt\": \"专一 专一不移 专专 专业 专业户 专业技术职务\"}"
+ },
+ {
+  "prompt": "一丁不识 一字不识 一般见识 一面之识 七识 下意识",
+  "label": "{\"task\": \"last_char\", \"ans\": \"识\", \"prompt\": \"一丁不识 一字不识 一般见识 一面之识 七识 下意识\"}"
+ },
+ {
+  "prompt": "一丁点 一斑半点 一星半点 一点 一点半点 一点点",
+  "label": "{\"task\": \"last_char\", \"ans\": \"点\", \"prompt\": \"一丁点 一斑半点 一星半点 一点 一点半点 一点点\"}"
+ },
+ {
+  "prompt": "一丁点儿 一个劲儿 一个子儿 一个心眼儿 一个萝卜一个坑儿 一代儿",
+  "label": "{\"task\": \"last_char\", \"ans\": \"儿\", \"prompt\": \"一丁点儿 一个劲儿 一个子儿 一个心眼儿 一个萝卜一个坑儿 一代儿\"}"
+ },
+ {
+  "prompt": "一丈五尺 一尺 丁字尺 七尺 丈尺 三角尺",
+  "label": "{\"task\": \"last_char\", \"ans\": \"尺\", \"prompt\": \"一丈五尺 一尺 丁字尺 七尺 丈尺 三角尺\"}"
+ },
+ {
+  "prompt": "一丈红 一丝红 一串红 一品红 一枕日红 一紫盖十红",
+  "label": "{\"task\": \"last_char\", \"ans\": \"红\", \"prompt\": \"一丈红 一丝红 一串红 一品红 一枕日红 一紫盖十红\"}"
+ },
+ {
+  "prompt": "他们是快乐的一家人\n我们是和睦的一家人\n你们是和谐的一家人",
+  "label": "{\"task\": \"sent_end\", \"ans\": \"的一家人\", \"prompt\": \"他们是快乐的一家人\\n我们是和睦的一家人\\n你们是和谐的一家人\"}"
+ },
+ {
+  "prompt": "春天是新生的一季\n夏天是热情的一季\n秋天是收获的一季",
+  "label": "{\"task\": \"sent_end\", \"ans\": \"的一季\", \"prompt\": \"春天是新生的一季\\n夏天是热情的一季\\n秋天是收获的一季\"}"
+ },
+ {
+  "prompt": "我喜欢电影，因为它能够带给我快乐\n我喜欢阅读，因为它能够带给我快乐\n我喜欢运动，因为它能够带给我快乐",
+  "label": "{\"task\": \"sent_mix\", \"ans1\": \"我喜欢\", \"ans2\": \"，因为它能够带给我快乐\", \"prompt\": \"我喜欢电影，因为它能够带给我快乐\\n我喜欢阅读，因为它能够带给我快乐\\n我喜欢运动，因为它能够带给我快乐\"}"
+ },
+ {
+  "prompt": "无论遇到什么挑战，我们都必须坚持下去\n无论遇到什么困难，我们都必须坚持下去\n无论遇到什么磨难，我们都必须坚持下去",
+  "label": "{\"task\": \"sent_mix\", \"ans1\": \"无论遇到什么\", \"ans2\": \"，我们都必须坚持下去\", \"prompt\": \"无论遇到什么挑战，我们都必须坚持下去\\n无论遇到什么困难，我们都必须坚持下去\\n无论遇到什么磨难，我们都必须坚持下去\"}"
+ },
+ {
+  "prompt": "愿我们的友谊,像海洋一样广阔无边\n愿我们的爱情,像海洋一样广阔无边\n愿我们的家园,像海洋一样广阔无边",
+  "label": "{\"task\": \"sent_mix\", \"ans1\": \"愿我们的\", \"ans2\": \",像海洋一样广阔无边\", \"prompt\": \"愿我们的友谊,像海洋一样广阔无边\\n愿我们的爱情,像海洋一样广阔无边\\n愿我们的家园,像海洋一样广阔无边\"}"
+ },
+ {
+  "prompt": "每次旅行，都会让我收获满满的美好回忆\n每次聚会，都会让我收获满满的美好回忆\n每次冒险，都会让我收获满满的美好回忆",
+  "label": "{\"task\": \"sent_mix\", \"ans1\": \"每次\", \"ans2\": \"，都会让我收获满满的美好回忆\", \"prompt\": \"每次旅行，都会让我收获满满的美好回忆\\n每次聚会，都会让我收获满满的美好回忆\\n每次冒险，都会让我收获满满的美好回忆\"}"
+ },
+ {
+  "prompt": "我憧憬未来，因为它充满着无限可能\n我憧憬明天，因为它充满着无限可能\n我憧憬青春，因为它充满着无限可能",
+  "label": "{\"task\": \"sent_mix\", \"ans1\": \"我憧憬\", \"ans2\": \"，因为它充满着无限可能\", \"prompt\": \"我憧憬未来，因为它充满着无限可能\\n我憧憬明天，因为它充满着无限可能\\n我憧憬青春，因为它充满着无限可能\"}"
+ },
+ {
+  "prompt": "虽然经历了风雨，我们依然坚强不屈\n虽然曾有过泪水，我们依然坚强不屈\n虽然经历了挫折，我们依然坚强不屈",
+  "label": "{\"task\": \"sent_mix\", \"ans1\": \"虽然\", \"ans2\": \"，我们依然坚强不屈\", \"prompt\": \"虽然经历了风雨，我们依然坚强不屈\\n虽然曾有过泪水，我们依然坚强不屈\\n虽然经历了挫折，我们依然坚强不屈\"}"
+ },
+ {
+  "prompt": "每一段经历，都是我人生中的一笔宝贵财富\n每一次失败，都是我人生中的一笔宝贵财富\n每一次成长，都是我人生中的一笔宝贵财富",
+  "label": "{\"task\": \"sent_mix\", \"ans1\": \"每一\", \"ans2\": \"，都是我人生中的一笔宝贵财富\", \"prompt\": \"每一段经历，都是我人生中的一笔宝贵财富\\n每一次失败，都是我人生中的一笔宝贵财富\\n每一次成长，都是我人生中的一笔宝贵财富\"}"
+ },
+ {
+  "prompt": "虽然生活艰辛，我仍然对未来充满希望\n虽然生活困苦，我仍然对未来充满希望\n虽然生活艰难，我仍然对未来充满希望",
+  "label": "{\"task\": \"sent_mix\", \"ans1\": \"虽然生活\", \"ans2\": \"，我仍然对未来充满希望\", \"prompt\": \"虽然生活艰辛，我仍然对未来充满希望\\n虽然生活困苦，我仍然对未来充满希望\\n虽然生活艰难，我仍然对未来充满希望\"}"
+ },
+ {
+  "prompt": "在这个美好的世界里，我有许多快乐美好的回忆\n在这个美好的国家里，我有许多快乐美好的回忆\n在这个美好的家庭里，我有许多快乐美好的回忆",
+  "label": "{\"task\": \"sent_mix\", \"ans1\": \"在这个美好的\", \"ans2\": \"里，我有许多快乐美好的回忆\", \"prompt\": \"在这个美好的世界里，我有许多快乐美好的回忆\\n在这个美好的国家里，我有许多快乐美好的回忆\\n在这个美好的家庭里，我有许多快乐美好的回忆\"}"
+ },
+ {
+  "prompt": "每一天早上，我都期待着新的一天带给我的能量\n每一天晚上，我都期待着新的一天带给我的能量\n每一天中午，我都期待着新的一天带给我的能量",
+  "label": "{\"task\": \"sent_mix\", \"ans1\": \"每一天\", \"ans2\": \"，我都期待着新的一天带给我的能量\", \"prompt\": \"每一天早上，我都期待着新的一天带给我的能量\\n每一天晚上，我都期待着新的一天带给我的能量\\n每一天中午，我都期待着新的一天带给我的能量\"}"
+ },
+ {
+  "prompt": "思念是一种无力的情感，能让我们内心湿润\n思念是一种美好的情感，能让我们内心湿润\n思念是一种痛苦的情感，能让我们内心湿润",
+  "label": "{\"task\": \"sent_mix\", \"ans1\": \"思念是一种\", \"ans2\": \"的情感，能让我们内心湿润\", \"prompt\": \"思念是一种无力的情感，能让我们内心湿润\\n思念是一种美好的情感，能让我们内心湿润\\n思念是一种痛苦的情感，能让我们内心湿润\"}"
+ },
+ {
+  "prompt": "学习是一种长期的投资，坚持下去必能收获成功\n学习是一种不断的努力，坚持下去必能收获成功\n学习是一种无尽的探索，坚持下去必能收获成功",
+  "label": "{\"task\": \"sent_mix\", \"ans1\": \"学习是一种\", \"ans2\": \"，坚持下去必能收获成功\", \"prompt\": \"学习是一种长期的投资，坚持下去必能收获成功\\n学习是一种不断的努力，坚持下去必能收获成功\\n学习是一种无尽的探索，坚持下去必能收获成功\"}"
+ },
+ {
+  "prompt": "即使有风雨有坎坷，我们也要坚定地朝着目标前进\n即使有挫折有困难，我们也要坚定地朝着目标前进\n即使有失望有痛苦，我们也要坚定地朝着目标前进",
+  "label": "{\"task\": \"sent_mix\", \"ans1\": \"即使有\", \"ans2\": \"，我们也要坚定地朝着目标前进\", \"prompt\": \"即使有风雨有坎坷，我们也要坚定地朝着目标前进\\n即使有挫折有困难，我们也要坚定地朝着目标前进\\n即使有失望有痛苦，我们也要坚定地朝着目标前进\"}"
+ },
+ {
+  "prompt": "得到别人的帮助，让我更加感激他们的善意\n得到他人的支持，让我更加感激他们的善意\n得到朋友的理解，让我更加感激他们的善意",
+  "label": "{\"task\": \"sent_mix\", \"ans1\": \"得到\", \"ans2\": \"，让我更加感激他们的善意\", \"prompt\": \"得到别人的帮助，让我更加感激他们的善意\\n得到他人的支持，让我更加感激他们的善意\\n得到朋友的理解，让我更加感激他们的善意\"}"
+ },
+ {
+  "prompt": "丙丁 柄事 禀从 秉事 饼子",
+  "label": "{\"task\": \"first_voice\", \"prompt\": \"丙丁 柄事 禀从 秉事 饼子\", \"ans\": \"bǐnɡ\"}"
+ },
+ {
+  "prompt": "久且 九一八事变 灸刺 玖镜 酒不醉人人自醉 韭花",
+  "label": "{\"task\": \"first_voice\", \"prompt\": \"久且 九一八事变 灸刺 玖镜 酒不醉人人自醉 韭花\", \"ans\": \"jiǔ\"}"
+ },
+ {
+  "prompt": "争一口气 征两 怔忡 狰狞 睁一只眼，闭一只眼 筝人",
+  "label": "{\"task\": \"first_voice\", \"prompt\": \"争一口气 征两 怔忡 狰狞 睁一只眼，闭一只眼 筝人\", \"ans\": \"zhēnɡ\"}"
+ },
+ {
+  "prompt": "亭主 停业 庭万 廷争 蜓翼",
+  "label": "{\"task\": \"first_voice\", \"prompt\": \"亭主 停业 庭万 廷争 蜓翼\", \"ans\": \"tínɡ\"}"
+ },
+ {
+  "prompt": "仇人 愁乡 畴咨之忧 稠云 筹借 绸子",
+  "label": "{\"task\": \"first_voice\", \"prompt\": \"仇人 愁乡 畴咨之忧 稠云 筹借 绸子\", \"ans\": \"chóu\"}"
+ },
+ {
+  "prompt": "仔仔细细 咨且 姿仪 滋久 资不抵债",
+  "label": "{\"task\": \"first_voice\", \"prompt\": \"仔仔细细 咨且 姿仪 滋久 资不抵债\", \"ans\": \"zī\"}"
+ },
+ {
+  "prompt": "仙丹 先下手为强 掀动 纤丽 鲜为人知",
+  "label": "{\"task\": \"first_voice\", \"prompt\": \"仙丹 先下手为强 掀动 纤丽 鲜为人知\", \"ans\": \"xiān\"}"
+ },
+ {
+  "prompt": "一 丁 七 三 下 丈",
+  "label": "{\"task\": \"radicals\", \"ans\": \"一\", \"prompt\": \"一 丁 七 三 下 丈\"}"
+ },
+ {
+  "prompt": "二 于 亏 井 云 五",
+  "label": "{\"task\": \"radicals\", \"ans\": \"二\", \"prompt\": \"二 于 亏 井 云 五\"}"
+ },
+ {
+  "prompt": "八 公 六 共 兴 兵",
+  "label": "{\"task\": \"radicals\", \"ans\": \"八\", \"prompt\": \"八 公 六 共 兴 兵\"}"
+ },
+ {
+  "prompt": "儿 元 允 兄 光 先",
+  "label": "{\"task\": \"radicals\", \"ans\": \"儿\", \"prompt\": \"儿 元 允 兄 光 先\"}"
+ },
+ {
+  "prompt": "几 凡 凤 凯 凭",
+  "label": "{\"task\": \"radicals\", \"ans\": \"几\", \"prompt\": \"几 凡 凤 凯 凭\"}"
+ },
+ {
+  "prompt": "九 乃 久 么 丸 乏",
+  "label": "{\"task\": \"radicals\", \"ans\": \"丿\", \"prompt\": \"九 乃 久 么 丸 乏\"}"
+ },
+ {
+  "prompt": "干 平 年 并",
+  "label": "{\"task\": \"radicals\", \"ans\": \"干\", \"prompt\": \"干 平 年 并\"}"
+ },
+ {
+  "prompt": "士 壮 壳 声",
+  "label": "{\"task\": \"radicals\", \"ans\": \"士\", \"prompt\": \"士 壮 壳 声\"}"
+ },
+ {
+  "prompt": "寸 对 寺 寻 导 寿",
+  "label": "{\"task\": \"radicals\", \"ans\": \"寸\", \"prompt\": \"寸 对 寺 寻 导 寿\"}"
+ },
+ {
+  "prompt": "大 天 夫 太 央 失",
+  "label": "{\"task\": \"radicals\", \"ans\": \"大\", \"prompt\": \"大 天 夫 太 央 失\"}"
+ },
+ {
+  "prompt": "主一 主一无适 主上 主业 主丧 主主",
+  "label": "{\"task\": \"first_char\", \"ans\": \"主\", \"prompt\": \"主一 主一无适 主上 主业 主丧 主主\"}"
+ },
+ {
+  "prompt": "丽事 丽人 丽人天 丽亿 丽什 丽佳",
+  "label": "{\"task\": \"first_char\", \"ans\": \"丽\", \"prompt\": \"丽事 丽人 丽人天 丽亿 丽什 丽佳\"}"
+ },
+ {
+  "prompt": "举一反三 举一废百 举不胜举 举世 举世无双 举世无敌",
+  "label": "{\"task\": \"first_char\", \"ans\": \"举\", \"prompt\": \"举一反三 举一废百 举不胜举 举世 举世无双 举世无敌\"}"
+ },
+ {
+  "prompt": "义丁 义不主财 义不反顾 义不取容 义不容却 义不容辞",
+  "label": "{\"task\": \"first_char\", \"ans\": \"义\", \"prompt\": \"义丁 义不主财 义不反顾 义不取容 义不容却 义不容辞\"}"
+ },
+ {
+  "prompt": "乐不可支 乐不可极 乐不可言 乐不极盘 乐世 乐业",
+  "label": "{\"task\": \"first_char\", \"ans\": \"乐\", \"prompt\": \"乐不可支 乐不可极 乐不可言 乐不极盘 乐世 乐业\"}"
+ },
+ {
+  "prompt": "九一八事变 九三学社 九世 九世之仇 九世同居 九举",
+  "label": "{\"task\": \"first_char\", \"ans\": \"九\", \"prompt\": \"九一八事变 九三学社 九世 九世之仇 九世同居 九举\"}"
+ },
+ {
+  "prompt": "书不尽意 书不尽言 书不释手 书业 书丹 书云",
+  "label": "{\"task\": \"first_char\", \"ans\": \"书\", \"prompt\": \"书不尽意 书不尽言 书不释手 书业 书丹 书云\"}"
+ },
+ {
+  "prompt": "我的理想是拥有一个幸福的家庭，和爱的人一起生活\n我的理想是拥有一个和谐的社会，让每个人都能过上安宁的生活\n我的理想是拥有一个美好的世界，让人们能够和平共处",
+  "label": "{\"task\": \"sent_begin\", \"ans\": \"我的理想是拥有一个\", \"prompt\": \"我的理想是拥有一个幸福的家庭，和爱的人一起生活\\n我的理想是拥有一个和谐的社会，让每个人都能过上安宁的生活\\n我的理想是拥有一个美好的世界，让人们能够和平共处\"}"
+ },
+ {
+  "prompt": "昨天我去了一趟图书馆，借了几本书\n昨天早上，我和朋友一起去爬山锻炼身体\n昨天晚上，我参加了一场文艺演出，非常精彩",
+  "label": "{\"task\": \"sent_begin\", \"ans\": \"昨天\", \"prompt\": \"昨天我去了一趟图书馆，借了几本书\\n昨天早上，我和朋友一起去爬山锻炼身体\\n昨天晚上，我参加了一场文艺演出，非常精彩\"}"
+ },
+ {
+  "prompt": "吃了一顿丰盛的晚餐，我感到非常满足\n吃了一阵快餐，我感觉胃有些不舒服了\n吃了一碗粥，我终于止住了肚子的饿感",
+  "label": "{\"task\": \"sent_begin\", \"ans\": \"吃了一\", \"prompt\": \"吃了一顿丰盛的晚餐，我感到非常满足\\n吃了一阵快餐，我感觉胃有些不舒服了\\n吃了一碗粥，我终于止住了肚子的饿感\"}"
+ },
+ {
+  "prompt": "这本书很有趣，里面的故事让人忍俊不禁\n这本书很有深度，每读一页都能得到新的启发\n这本书很有意义，读完之后会让人对生活有更多的思考",
+  "label": "{\"task\": \"sent_begin\", \"ans\": \"这本书很有\", \"prompt\": \"这本书很有趣，里面的故事让人忍俊不禁\\n这本书很有深度，每读一页都能得到新的启发\\n这本书很有意义，读完之后会让人对生活有更多的思考\"}"
+ },
+ {
+  "prompt": "这个城市很繁华，街道上总是车水马龙\n这个城市很美丽，到处都是绿树成荫\n这个城市很多元，可以体验到不同的文化和美食",
+  "label": "{\"task\": \"sent_begin\", \"ans\": \"这个城市很\", \"prompt\": \"这个城市很繁华，街道上总是车水马龙\\n这个城市很美丽，到处都是绿树成荫\\n这个城市很多元，可以体验到不同的文化和美食\"}"
+ },
+ {
+  "prompt": "Many people believe that breakfast is the most important meal of the day.\nMany people believe that exercising in the morning can boost your energy for the entire day.\nMany people believe that learning a new language can open up many career opportunities.\nMany people believe that reading books is one of the best ways to expand your knowledge and imagination.",
+  "label": "{\"task\": \"sent_begin\", \"ans\": \"Many people believe that\", \"prompt\": \"Many people believe that breakfast is the most important meal of the day.\\nMany people believe that exercising in the morning can boost your energy for the entire day.\\nMany people believe that learning a new language can open up many career opportunities.\\nMany people believe that reading books is one of the best ways to expand your knowledge and imagination.\"}"
+ },
+ {
+  "prompt": "Throughout history, humans have searched for ways to extend their lifespan.\nThroughout history, humans have created art to express themselves and document their experiences.\nThroughout history, humans have overcome challenges by working together and innovating.\nThroughout history, humans have explored uncharted territories to satisfy their curiosity and expand their horizons.",
+  "label": "{\"task\": \"sent_begin\", \"ans\": \"Throughout history, humans have\", \"prompt\": \"Throughout history, humans have searched for ways to extend their lifespan.\\nThroughout history, humans have created art to express themselves and document their experiences.\\nThroughout history, humans have overcome challenges by working together and innovating.\\nThroughout history, humans have explored uncharted territories to satisfy their curiosity and expand their horizons.\"}"
+ },
+ {
+  "prompt": "The consequences of ignoring climate change could be catastrophic for future generations.\nThe consequences of ignoring health warnings can sometimes lead to serious medical conditions.\nThe consequences of ignoring the advice of experts may lead to preventable mistakes.\nThe consequences of ignoring one's financial responsibilities can be quite severe.",
+  "label": "{\"task\": \"sent_begin\", \"ans\": \"The consequences of ignoring\", \"prompt\": \"The consequences of ignoring climate change could be catastrophic for future generations.\\nThe consequences of ignoring health warnings can sometimes lead to serious medical conditions.\\nThe consequences of ignoring the advice of experts may lead to preventable mistakes.\\nThe consequences of ignoring one's financial responsibilities can be quite severe.\"}"
+ },
+ {
+  "prompt": "Without a doubt, one of the most influential scientists of the 20th century was Albert Einstein.\nWithout a doubt, one of the greatest challenges facing humanity is the need for sustainable development.\nWithout a doubt, one of the most important aspects of a successful team is good communication.\nWithout a doubt, one of the most beautiful aspects of human culture is the diversity of languages and traditions.",
+  "label": "{\"task\": \"sent_begin\", \"ans\": \"Without a doubt, one of the\", \"prompt\": \"Without a doubt, one of the most influential scientists of the 20th century was Albert Einstein.\\nWithout a doubt, one of the greatest challenges facing humanity is the need for sustainable development.\\nWithout a doubt, one of the most important aspects of a successful team is good communication.\\nWithout a doubt, one of the most beautiful aspects of human culture is the diversity of languages and traditions.\"}"
+ },
+ {
+  "prompt": "During our school field trip to the zoo, we saw a monkey cleverly stealing the zookeeper's hat.\nDuring our school field trip to the zoo, I learned that elephants can remember old friends and places.\nDuring our school field trip to the zoo, we all got to feed the colorful parrots in the aviary.",
+  "label": "{\"task\": \"sent_begin\", \"ans\": \"During our school field trip to the zoo\", \"prompt\": \"During our school field trip to the zoo, we saw a monkey cleverly stealing the zookeeper's hat.\\nDuring our school field trip to the zoo, I learned that elephants can remember old friends and places.\\nDuring our school field trip to the zoo, we all got to feed the colorful parrots in the aviary.\"}"
+ },
+ {
+  "prompt": "I searched under the bed, behind the couch, and then I heard a soft meow from the laundry basket, and that's how I found my lost kitten.\nThere was a little paw print in the mud by the garden shed, I followed the trail, and that's how I found my lost kitten.\nI put up posters all around the neighborhood, and the next morning Mr. Jenkins called me from two blocks away, and that's how I found my lost kitten.",
+  "label": "{\"task\": \"sent_end\", \"ans\": \"and that's how I found my lost kitten.\", \"prompt\": \"I searched under the bed, behind the couch, and then I heard a soft meow from the laundry basket, and that's how I found my lost kitten.\\nThere was a little paw print in the mud by the garden shed, I followed the trail, and that's how I found my lost kitten.\\nI put up posters all around the neighborhood, and the next morning Mr. Jenkins called me from two blocks away, and that's how I found my lost kitten.\"}"
+ },
+ {
+  "prompt": "My brother tried to do a magic trick, but the rabbit jumped out of the hat early, and we all laughed until our sides hurt.\nDuring the play, the actor forgot his lines and improvised a song about a dancing frog, and we all laughed until our sides hurt.\nThe clown at the birthday party slipped on a banana peel, tumbling into a pile of balloons, and we all laughed until our sides hurt.",
+  "label": "{\"task\": \"sent_end\", \"ans\": \"and we all laughed until our sides hurt.\", \"prompt\": \"My brother tried to do a magic trick, but the rabbit jumped out of the hat early, and we all laughed until our sides hurt.\\nDuring the play, the actor forgot his lines and improvised a song about a dancing frog, and we all laughed until our sides hurt.\\nThe clown at the birthday party slipped on a banana peel, tumbling into a pile of balloons, and we all laughed until our sides hurt.\"}"
+ },
+ {
+  "prompt": "We played games, ate cake, and when a magician pulled a rabbit out of a hat, I knew it was the best birthday party ever.\nThe room was full of balloons, my friends were all around me, and when I blew out the candles on a giant cake, it was the best birthday party ever.\nThere was a treasure hunt in the backyard with a real treasure chest, and when I opened it to find presents inside, it was the best birthday party ever.",
+  "label": "{\"task\": \"sent_end\", \"ans\": \"and it was the best birthday party ever.\", \"prompt\": \"We played games, ate cake, and when a magician pulled a rabbit out of a hat, I knew it was the best birthday party ever.\\nThe room was full of balloons, my friends were all around me, and when I blew out the candles on a giant cake, it was the best birthday party ever.\\nThere was a treasure hunt in the backyard with a real treasure chest, and when I opened it to find presents inside, it was the best birthday party ever.\"}"
+ },
+ {
+  "prompt": "I woke up to the smell of pancakes, and when I saw the snow falling outside my window, I knew it was going to be a great day.\nMy best friend called me in the morning with tickets to the amusement park, so I knew it was going to be a great day.\nI found a four-leaf clover in the field on my way to school, so I knew it was going to be a great day.",
+  "label": "{\"task\": \"sent_end\", \"ans\": \"so I knew it was going to be a great day.\", \"prompt\": \"I woke up to the smell of pancakes, and when I saw the snow falling outside my window, I knew it was going to be a great day.\\nMy best friend called me in the morning with tickets to the amusement park, so I knew it was going to be a great day.\\nI found a four-leaf clover in the field on my way to school, so I knew it was going to be a great day.\"}"
+ },
+ {
+  "prompt": "The soccer ball flew past the goalie and into the net, and everyone cheered loudly.\nThe little duck finally caught up with its mother on the pond, and everyone cheered loudly.\nShe crossed the finish line with a big smile on her face, and everyone cheered loudly.",
+  "label": "{\"task\": \"sent_end\", \"ans\": \"and everyone cheered loudly.\", \"prompt\": \"The soccer ball flew past the goalie and into the net, and everyone cheered loudly.\\nThe little duck finally caught up with its mother on the pond, and everyone cheered loudly.\\nShe crossed the finish line with a big smile on her face, and everyone cheered loudly.\"}"
+ },
+ {
+  "prompt": "He lent me his favorite pencil when mine broke during the test, and from that day on, we were best friends.\nShe stood up for me when others wouldn't let me play, and from that day on, we were best friends.\nWe discovered we both loved the same books and comics, and from that day on, we were best friends.",
+  "label": "{\"task\": \"sent_end\", \"ans\": \"and from that day on, we were best friends.\", \"prompt\": \"He lent me his favorite pencil when mine broke during the test, and from that day on, we were best friends.\\nShe stood up for me when others wouldn't let me play, and from that day on, we were best friends.\\nWe discovered we both loved the same books and comics, and from that day on, we were best friends.\"}"
+ },
+ {
+  "prompt": "The puppy chased its tail in circles until it got dizzy and plopped down, and the whole room filled with laughter.\nGrandma tried to blow out the candles, but instead, her false teeth flew out, and the whole room filled with laughter.\nI was trying to act like a serious scientist, but when my experiment fizzed over, and the whole room filled with laughter.",
+  "label": "{\"task\": \"sent_end\", \"ans\": \"and the whole room filled with laughter.\", \"prompt\": \"The puppy chased its tail in circles until it got dizzy and plopped down, and the whole room filled with laughter.\\nGrandma tried to blow out the candles, but instead, her false teeth flew out, and the whole room filled with laughter.\\nI was trying to act like a serious scientist, but when my experiment fizzed over, and the whole room filled with laughter.\"}"
+ },
+ {
+  "prompt": "We spent all afternoon baking the cake, decorating it with frosting and sprinkles, and it tasted absolutely delicious.\nAfter picking apples in the orchard, we made a homemade pie, and it tasted absolutely delicious.\nThe class made a huge fruit salad with all our favorite fruits, and it tasted absolutely delicious.",
+  "label": "{\"task\": \"sent_end\", \"ans\": \"and it tasted absolutely delicious.\", \"prompt\": \"We spent all afternoon baking the cake, decorating it with frosting and sprinkles, and it tasted absolutely delicious.\\nAfter picking apples in the orchard, we made a homemade pie, and it tasted absolutely delicious.\\nThe class made a huge fruit salad with all our favorite fruits, and it tasted absolutely delicious.\"}"
+ },
+ {
+  "prompt": "My teacher put a gold star on my homework, and I couldn't stop smiling.\nMy dad surprised me with a new bike for my birthday, and I couldn't stop smiling.\nI finally learned how to tie my shoelaces by myself, and I couldn't stop smiling.",
+  "label": "{\"task\": \"sent_end\", \"ans\": \"and I couldn't stop smiling.\", \"prompt\": \"My teacher put a gold star on my homework, and I couldn't stop smiling.\\nMy dad surprised me with a new bike for my birthday, and I couldn't stop smiling.\\nI finally learned how to tie my shoelaces by myself, and I couldn't stop smiling.\"}"
+ },
+ {
+  "prompt": "The science museum had an exhibit on dinosaurs, and we all learned something new.\nOur coach showed us how to dribble a soccer ball properly, and we all learned something new.\nThe librarian read us a story about the solar system, and we all learned something new.",
+  "label": "{\"task\": \"sent_end\", \"ans\": \"and we all learned something new.\", \"prompt\": \"The science museum had an exhibit on dinosaurs, and we all learned something new.\\nOur coach showed us how to dribble a soccer ball properly, and we all learned something new.\\nThe librarian read us a story about the solar system, and we all learned something new.\"}"
+ },
+ {
+  "prompt": "We watched the sunset over the lake, eating ice cream, and it was the perfect end to the day.\nAfter a long day of fun and games, we sat down to watch our favorite movie, and it was the perfect end to the day.\nThe campfire crackled as we roasted marshmallows under the stars, and it was the perfect end to the day.",
+  "label": "{\"task\": \"sent_end\", \"ans\": \"and it was the perfect end to the day.\", \"prompt\": \"We watched the sunset over the lake, eating ice cream, and it was the perfect end to the day.\\nAfter a long day of fun and games, we sat down to watch our favorite movie, and it was the perfect end to the day.\\nThe campfire crackled as we roasted marshmallows under the stars, and it was the perfect end to the day.\"}"
+ },
+ {
+  "prompt": "I cleaned up my room without being asked, and my mom gave me a hug, and that's when I knew I had done a good job.\nI finished my book report a week early, and my teacher gave me a thumbs up, and that's when I knew I had done a good job.\nI helped my little sister learn to ride her bike, and she gave me a big smile, and that's when I knew I had done a good job.",
+  "label": "{\"task\": \"sent_end\", \"ans\": \"and that's when I knew I had done a good job.\", \"prompt\": \"I cleaned up my room without being asked, and my mom gave me a hug, and that's when I knew I had done a good job.\\nI finished my book report a week early, and my teacher gave me a thumbs up, and that's when I knew I had done a good job.\\nI helped my little sister learn to ride her bike, and she gave me a big smile, and that's when I knew I had done a good job.\"}"
+ },
+ {
+  "prompt": "She always starts her day with a brisk walk in the morning.\nThe city streets are bustling with commuters in the morning.\nHe prefers to schedule all of his meetings in the morning.\nThe birds begin their chorus just as the sun rises in the morning.",
+  "label": "{\"task\": \"sent_end\", \"ans\": \"in the morning.\", \"prompt\": \"She always starts her day with a brisk walk in the morning.\\nThe city streets are bustling with commuters in the morning.\\nHe prefers to schedule all of his meetings in the morning.\\nThe birds begin their chorus just as the sun rises in the morning.\"}"
+ },
+ {
+  "prompt": "cat car cake cold carry",
+  "label": "{\"task\": \"first_char\", \"ans\": \"c\", \"prompt\": \"cat car cake cold carry\"}"
+ },
+ {
+  "prompt": "mouse mountain mirror music market",
+  "label": "{\"task\": \"first_char\", \"ans\": \"m\", \"prompt\": \"mouse mountain mirror music market\"}"
+ },
+ {
+  "prompt": "sun sand sea salt sweet",
+  "label": "{\"task\": \"first_char\", \"ans\": \"s\", \"prompt\": \"sun sand sea salt sweet\"}"
+ },
+ {
+  "prompt": "ball book bear boat blue",
+  "label": "{\"task\": \"first_char\", \"ans\": \"b\", \"prompt\": \"ball book bear boat blue\"}"
+ },
+ {
+  "prompt": "dog door duck dance dream",
+  "label": "{\"task\": \"first_char\", \"ans\": \"d\", \"prompt\": \"dog door duck dance dream\"}"
+ },
+ {
+  "prompt": "goat gold garden glass game",
+  "label": "{\"task\": \"first_char\", \"ans\": \"g\", \"prompt\": \"goat gold garden glass game\"}"
+ },
+ {
+  "prompt": "house horse hat honey hill",
+  "label": "{\"task\": \"first_char\", \"ans\": \"h\", \"prompt\": \"house horse hat honey hill\"}"
+ },
+ {
+  "prompt": "light lemon leaf ladder lake",
+  "label": "{\"task\": \"first_char\", \"ans\": \"l\", \"prompt\": \"light lemon leaf ladder lake\"}"
+ },
+ {
+  "prompt": "ice igloo insect iron island",
+  "label": "{\"task\": \"first_char\", \"ans\": \"i\", \"prompt\": \"ice igloo insect iron island\"}"
+ },
+ {
+  "prompt": "orange octopus ostrich olive ocean",
+  "label": "{\"task\": \"first_char\", \"ans\": \"o\", \"prompt\": \"orange octopus ostrich olive ocean\"}"
+ },
+ {
+  "prompt": "kite kangaroo key kitchen kiwi",
+  "label": "{\"task\": \"first_char\", \"ans\": \"k\", \"prompt\": \"kite kangaroo key kitchen kiwi\"}"
+ },
+ {
+  "prompt": "violin volcano van vase vegetable",
+  "label": "{\"task\": \"first_char\", \"ans\": \"v\", \"prompt\": \"violin volcano van vase vegetable\"}"
+ },
+ {
+  "prompt": "umbrella unicorn uniform utensil universe",
+  "label": "{\"task\": \"first_char\", \"ans\": \"u\", \"prompt\": \"umbrella unicorn uniform utensil universe\"}"
+ },
+ {
+  "prompt": "light night flight sight tight",
+  "label": "{\"task\": \"last_char\", \"ans\": \"ight\", \"prompt\": \"light night flight sight tight\"}"
+ },
+ {
+  "prompt": "train plain brain gain rain",
+  "label": "{\"task\": \"last_char\", \"ans\": \"ain\", \"prompt\": \"train plain brain gain rain\"}"
+ },
+ {
+  "prompt": "ring king wing swing spring",
+  "label": "{\"task\": \"last_char\", \"ans\": \"ing\", \"prompt\": \"ring king wing swing spring\"}"
+ },
+ {
+  "prompt": "plate gate late fate crate",
+  "label": "{\"task\": \"last_char\", \"ans\": \"ate\", \"prompt\": \"plate gate late fate crate\"}"
+ },
+ {
+  "prompt": "friendly lovely quickly simply early",
+  "label": "{\"task\": \"last_char\", \"ans\": \"ly\", \"prompt\": \"friendly lovely quickly simply early\"}"
+ },
+ {
+  "prompt": "water computer teacher flower paper",
+  "label": "{\"task\": \"last_char\", \"ans\": \"er\", \"prompt\": \"water computer teacher flower paper\"}"
+ },
+ {
+  "prompt": "window shadow meadow arrow yellow",
+  "label": "{\"task\": \"last_char\", \"ans\": \"ow\", \"prompt\": \"window shadow meadow arrow yellow\"}"
+ },
+ {
+  "prompt": "food wood hood childhood neighborhood",
+  "label": "{\"task\": \"last_char\", \"ans\": \"ood\", \"prompt\": \"food wood hood childhood neighborhood\"}"
+ },
+ {
+  "prompt": "friend end bend send pretend",
+  "label": "{\"task\": \"last_char\", \"ans\": \"nd\", \"prompt\": \"friend end bend send pretend\"}"
+ },
+ {
+  "prompt": "back track pack black snack",
+  "label": "{\"task\": \"last_char\", \"ans\": \"ack\", \"prompt\": \"back track pack black snack\"}"
+ },
+ {
+  "prompt": "jump bump stump pump lump",
+  "label": "{\"task\": \"last_char\", \"ans\": \"ump\", \"prompt\": \"jump bump stump pump lump\"}"
+ },
+ {
+  "prompt": "best test west nest chest",
+  "label": "{\"task\": \"last_char\", \"ans\": \"est\", \"prompt\": \"best test west nest chest\"}"
+ },
+ {
+  "prompt": "fight might right sight tight",
+  "label": "{\"task\": \"last_char\", \"ans\": \"ight\", \"prompt\": \"fight might right sight tight\"}"
+ },
+ {
+  "prompt": "bill hill still thrill will",
+  "label": "{\"task\": \"last_char\", \"ans\": \"ill\", \"prompt\": \"bill hill still thrill will\"}"
+ },
+ {
+  "prompt": "core bore store explore before",
+  "label": "{\"task\": \"last_char\", \"ans\": \"ore\", \"prompt\": \"core bore store explore before\"}"
+ },
+ {
+  "prompt": "bite kite site white write",
+  "label": "{\"task\": \"last_char\", \"ans\": \"ite\", \"prompt\": \"bite kite site white write\"}"
+ },
+ {
+  "prompt": "ant plant grant slant distant",
+  "label": "{\"task\": \"last_char\", \"ans\": \"nt\", \"prompt\": \"ant plant grant slant distant\"}"
+ },
+ {
+  "prompt": "balloon spoon cartoon tycoon monsoon",
+  "label": "{\"task\": \"last_char\", \"ans\": \"oon\", \"prompt\": \"balloon spoon cartoon tycoon monsoon\"}"
+ },
+ {
+  "prompt": "ice slice dice nice vice",
+  "label": "{\"task\": \"last_char\", \"ans\": \"ce\", \"prompt\": \"ice slice dice nice vice\"}"
+ },
+ {
+  "prompt": "old bold cold gold fold",
+  "label": "{\"task\": \"last_char\", \"ans\": \"ld\", \"prompt\": \"old bold cold gold fold\"}"
+ },
+ {
+  "prompt": "ear rear gear clear fear",
+  "label": "{\"task\": \"last_char\", \"ans\": \"ar\", \"prompt\": \"ear rear gear clear fear\"}"
+ },
+ {
+  "prompt": "bright future,bright idea,bright lights,bright colors,bright star",
+  "label": "{\"task\": \"sent_begin\", \"ans\": \"bright\", \"prompt\": \"bright future,bright idea,bright lights,bright colors,bright star\"}"
+ },
+ {
+  "prompt": "cold feet,cold shoulder,cold weather,cold call,cold case",
+  "label": "{\"task\": \"sent_begin\", \"ans\": \"cold\", \"prompt\": \"cold feet,cold shoulder,cold weather,cold call,cold case\"}"
+ },
+ {
+  "prompt": "heavy rain,heavy lifting,heavy metal,heavy traffic,heavy heart",
+  "label": "{\"task\": \"sent_begin\", \"ans\": \"heavy\", \"prompt\": \"heavy rain,heavy lifting,heavy metal,heavy traffic,heavy heart\"}"
+ },
+ {
+  "prompt": "light bulb,light rain,light snack,light sleeper,light reading",
+  "label": "{\"task\": \"sent_begin\", \"ans\": \"light\", \"prompt\": \"light bulb,light rain,light snack,light sleeper,light reading\"}"
+ },
+ {
+  "prompt": "strong bond,strong coffee,strong current,strong winds,strong suit",
+  "label": "{\"task\": \"sent_begin\", \"ans\": \"strong\", \"prompt\": \"strong bond,strong coffee,strong current,strong winds,strong suit\"}"
+ },
+ {
+  "prompt": "running water,running late,running shoes,running track,running mate",
+  "label": "{\"task\": \"sent_begin\", \"ans\": \"running\", \"prompt\": \"running water,running late,running shoes,running track,running mate\"}"
+ },
+ {
+  "prompt": "open mind,open book,open house,open secret,open-ended",
+  "label": "{\"task\": \"sent_begin\", \"ans\": \"open\", \"prompt\": \"open mind,open book,open house,open secret,open-ended\"}"
+ },
+ {
+  "prompt": "clear skies,clear conscience,clear instructions,clear path,clear evidence",
+  "label": "{\"task\": \"sent_begin\", \"ans\": \"clear\", \"prompt\": \"clear skies,clear conscience,clear instructions,clear path,clear evidence\"}"
+ },
+ {
+  "prompt": "deep sleep,deep conversation,deep space,deep end,deep pockets",
+  "label": "{\"task\": \"sent_begin\", \"ans\": \"deep\", \"prompt\": \"deep sleep,deep conversation,deep space,deep end,deep pockets\"}"
+ },
+ {
+  "prompt": "hard work,hard copy,hard hat,hard times,hard drive",
+  "label": "{\"task\": \"sent_begin\", \"ans\": \"hard\", \"prompt\": \"hard work,hard copy,hard hat,hard times,hard drive\"}"
+ },
+ {
+  "prompt": "last chance,last minute,last name,last laugh,last resort",
+  "label": "{\"task\": \"sent_begin\", \"ans\": \"last\", \"prompt\": \"last chance,last minute,last name,last laugh,last resort\"}"
+ },
+ {
+  "prompt": "first aid,first place,first impression,first rate,first hand",
+  "label": "{\"task\": \"sent_begin\", \"ans\": \"first\", \"prompt\": \"first aid,first place,first impression,first rate,first hand\"}"
+ },
+ {
+  "prompt": "long distance,long shot,long term,long weekend,long story",
+  "label": "{\"task\": \"sent_begin\", \"ans\": \"long\", \"prompt\": \"long distance,long shot,long term,long weekend,long story\"}"
+ },
+ {
+  "prompt": "short break,short film,short notice,short circuit,short term",
+  "label": "{\"task\": \"sent_begin\", \"ans\": \"short\", \"prompt\": \"short break,short film,short notice,short circuit,short term\"}"
+ }
+]

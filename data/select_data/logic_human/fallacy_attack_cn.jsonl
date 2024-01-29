@@ -1,0 +1,15 @@
+{"label": 0, "prompt": "鸟都会飞，企鹅是鸟，所以", "annotation": "企鹅是鸟，", "answer": "企鹅不会飞"}
+{"label": 1, "prompt": "火车可以在铁轨上快速行驶，汽车有轮子，所以", "annotation": "汽车有轮子，", "answer": "汽车不可以在铁轨上快速行驶"}
+{"label": 2, "prompt": "鱼可以在水下呼吸，猫是动物，所以", "annotation": "猫是动物，", "answer": "猫不能在水下呼吸"}
+{"label": 3, "prompt": "有些人可以10秒内跑完500米，小明是人，所以", "annotation": "小明是人，", "answer": "小明不可以10秒内跑完500米"}
+{"label": 4, "prompt": "大象是陆地上最大的动物，鲸鱼是动物，所以", "annotation": "鲸鱼是动物，", "answer": "鲸鱼是海洋中最大的动物"}
+{"label": 5, "prompt": "太阳每天从东方升起，月亮在天空中，所以", "annotation": "月亮在天空中，", "answer": "月亮从东方升起，但月亮升起的位置也会随着季节的变换向南北偏移"}
+{"label": 6, "prompt": "人会说话，婴儿是人，所以", "annotation": "婴儿是人，", "answer": "婴儿不会说话"}
+{"label": 7, "prompt": "所有的书都是用纸做的，电子书是书，所以", "annotation": "电子书是书，", "answer": "电子书不是纸做的"}
+{"label": 8, "prompt": "大多数哺乳动物都有毛发，鲸鱼是哺乳动物，所以", "annotation": "鲸鱼是哺乳动物，", "answer": "鲸鱼没有毛发"}
+{"label": 9, "prompt": "鸟不会游泳，企鹅是鸟，所以", "annotation": "企鹅是鸟，", "answer": "企鹅会游泳"}
+{"label": 10, "prompt": "飞机都有机翼，直升机是飞机，所以", "annotation": "直升机是飞机，", "answer": "直升机没有机翼"}
+{"label": 11, "prompt": "软件都需要单独安装，操作系统是软件，所以", "annotation": "操作系统是软件，", "answer": "不是所有软件都需要单独安装"}
+{"label": 12, "prompt": "交通工具需要燃料，自行车是交通工具，所以", "annotation": "自行车是交通工具，", "answer": "自行车不需要燃料"}
+{"label": 13, "prompt": "金属都是导电的，木头椅子上有金属部分，所以", "annotation": "木头椅子上有金属部分，", "answer": "木头椅子不导电"}
+{"label": 14, "prompt": "大多数动物有四条腿，蛇是动物，所以", "annotation": "蛇是动物，", "answer": "蛇没有腿"}

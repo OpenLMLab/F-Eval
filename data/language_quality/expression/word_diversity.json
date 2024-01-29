@@ -1,0 +1,614 @@
+[
+ {
+  "prompt": "这是记忆中妈妈唯一的拥抱。爸爸对我的皮肤接触，大概就是偶尔拧拧耳朵。妈妈也拧，但大部分时候是用巴掌或者竹枝。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"这是记忆中妈妈唯一的拥抱。爸爸对我的皮肤接触，大概就是偶尔拧拧耳朵。妈妈也拧，但大部分时候是用巴掌或者竹枝。\"}"
+ },
+ {
+  "prompt": "小火带着汤汁不停咕嘟，羊肉块便依偎着萝卜块一齐在锅中有节奏地起伏。古籍中记载：“羊肉温补肝阳，滋补木中生气，以助升达。”冬天的羊上了膘，肥了，人们便可以去“贴”了。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"小火带着汤汁不停咕嘟，羊肉块便依偎着萝卜块一齐在锅中有节奏地起伏。古籍中记载：“羊肉温补肝阳，滋补木中生气，以助升达。”冬天的羊上了膘，肥了，人们便可以去“贴”了。\"}"
+ },
+ {
+  "prompt": "苏轼曾写诗送朋友仲殊：恰似饮茶甘苦杂，不如食蜜中边甜。别的朋友像是茶，有甜，也有苦；但是你仲殊像蜜，里里外外都是甜的。茶与蜜是苏轼对两类朋友的形容。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"苏轼曾写诗送朋友仲殊：恰似饮茶甘苦杂，不如食蜜中边甜。别的朋友像是茶，有甜，也有苦；但是你仲殊像蜜，里里外外都是甜的。茶与蜜是苏轼对两类朋友的形容。\"}"
+ },
+ {
+  "prompt": "八年前，他的母亲患上了阿尔茨海默病。他说，对人类的生存处境不存在解药，但他研究、教授道德哲学二十多年，相信道德哲學可以帮助人们应对疾病、孤独、悲伤、失败、不公正和荒谬感。在哲学家看来，生病也不是绝对的烦恼，“健康是身体及其组成部分能正常运行，疾病就是身体运转失灵，而生病是疾病对生活体验的影响。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"八年前，他的母亲患上了阿尔茨海默病。他说，对人类的生存处境不存在解药，但他研究、教授道德哲学二十多年，相信道德哲學可以帮助人们应对疾病、孤独、悲伤、失败、不公正和荒谬感。在哲学家看来，生病也不是绝对的烦恼，“健康是身体及其组成部分能正常运行，疾病就是身体运转失灵，而生病是疾病对生活体验的影响。\"}"
+ },
+ {
+  "prompt": "事实上，真正的成功者在生活中并不是循规蹈矩的人。我会告诉年轻时的自己，如果一个女孩愿意与你交往，哪怕你只带她去吃汉堡包，她也会心甘情愿。对她来说，那与豪华大餐并无差别。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"事实上，真正的成功者在生活中并不是循规蹈矩的人。我会告诉年轻时的自己，如果一个女孩愿意与你交往，哪怕你只带她去吃汉堡包，她也会心甘情愿。对她来说，那与豪华大餐并无差别。\"}"
+ },
+ {
+  "prompt": "红尘穿梭，追寻初心，辜负年华。反思先前路，行踪偏左，征途迷漫，心乱如麻。古往今来，高人庸者，出世回皈似粉沙。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"红尘穿梭，追寻初心，辜负年华。反思先前路，行踪偏左，征途迷漫，心乱如麻。古往今来，高人庸者，出世回皈似粉沙。\"}"
+ },
+ {
+  "prompt": "上其道，阶面尚阔，复上百层，阶面渐狭，又复数层，惟一人横行也。古往今来，文人墨客大多与此吟诗作赋，舞文弄墨，不敢行向前也。何哉？",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"上其道，阶面尚阔，复上百层，阶面渐狭，又复数层，惟一人横行也。古往今来，文人墨客大多与此吟诗作赋，舞文弄墨，不敢行向前也。何哉？\"}"
+ },
+ {
+  "prompt": "春之餐桌上最后还能有一道野菜拌豆腐。蒲公英嫩嫩的，青翠鲜亮，剁得细碎，豆腐白得纯净，那点点绿意似要把巍巍雪山揽入怀中。还少不了杭州名菜“腌笃鲜”。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"春之餐桌上最后还能有一道野菜拌豆腐。蒲公英嫩嫩的，青翠鲜亮，剁得细碎，豆腐白得纯净，那点点绿意似要把巍巍雪山揽入怀中。还少不了杭州名菜“腌笃鲜”。\"}"
+ },
+ {
+  "prompt": "它可以是青釉葵口盘上的一枚豌豆黄糕。梅子青如玉，拿着小匙羹一勺一勺将糕点送入口中，时而磕碰到盘底边角，丁零当啷。夏天在清灵的节奏里，活得有声有响。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"它可以是青釉葵口盘上的一枚豌豆黄糕。梅子青如玉，拿着小匙羹一勺一勺将糕点送入口中，时而磕碰到盘底边角，丁零当啷。夏天在清灵的节奏里，活得有声有响。\"}"
+ },
+ {
+  "prompt": "清风玉宇破寒烟，影动银河金饼悬。塞雁盼归求一聚，飘蓬摇落已期年。天宫寂寞姮娥泪，世路浮沉范蠡船。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"清风玉宇破寒烟，影动银河金饼悬。塞雁盼归求一聚，飘蓬摇落已期年。天宫寂寞姮娥泪，世路浮沉范蠡船。\"}"
+ },
+ {
+  "prompt": "济慈曾写过一篇《秋颂》：“你们密谋用累累的珠球，缀满茅屋檐下的葡萄藤蔓；使屋前的老树背负着苹果，让熟味透进果实的心中，使葫芦胀大，鼓起了榛子壳，好塞进甜核。”秋天的餐桌，无须装扮，是瓜果们成熟的芳香。它是清晨里，还未走至桌旁，动动鼻子，就能闻见番薯粥朴实的香甜。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"济慈曾写过一篇《秋颂》：“你们密谋用累累的珠球，缀满茅屋檐下的葡萄藤蔓；使屋前的老树背负着苹果，让熟味透进果实的心中，使葫芦胀大，鼓起了榛子壳，好塞进甜核。”秋天的餐桌，无须装扮，是瓜果们成熟的芳香。它是清晨里，还未走至桌旁，动动鼻子，就能闻见番薯粥朴实的香甜。\"}"
+ },
+ {
+  "prompt": "我叔叔是這样一个人，他一生都在寻找金银财宝，所以他的藏品很丰富，有黄金、白银、珍稀金属、珠宝、大师制作的剑、精美的刀、精致而昂贵的工艺品（如花瓶和精美雕像）。他会满世界地跑，想方设法得到这些东西并带回家，藏在阁楼里，而他就睡在阁楼下面，离他的珍宝只有一板之隔，如此才能睡得踏实。叔叔的藏品越来越多，到后来楼板都会嘎吱作响，发出不堪重负的呻吟。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"我叔叔是這样一个人，他一生都在寻找金银财宝，所以他的藏品很丰富，有黄金、白银、珍稀金属、珠宝、大师制作的剑、精美的刀、精致而昂贵的工艺品（如花瓶和精美雕像）。他会满世界地跑，想方设法得到这些东西并带回家，藏在阁楼里，而他就睡在阁楼下面，离他的珍宝只有一板之隔，如此才能睡得踏实。叔叔的藏品越来越多，到后来楼板都会嘎吱作响，发出不堪重负的呻吟。\"}"
+ },
+ {
+  "prompt": "有人说亲人去世后特别悲痛的人有一些自我沉溺，“悲伤也许是有些自怜，但人们不只是为自己悲伤，也是为逝去的人、为他们失去的东西悲伤。悲伤不是脆弱，而是象征着持续的爱”。哲学能提供安慰，但不是说不再悲伤，而是知道如何以应有的方式悲伤。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"有人说亲人去世后特别悲痛的人有一些自我沉溺，“悲伤也许是有些自怜，但人们不只是为自己悲伤，也是为逝去的人、为他们失去的东西悲伤。悲伤不是脆弱，而是象征着持续的爱”。哲学能提供安慰，但不是说不再悲伤，而是知道如何以应有的方式悲伤。\"}"
+ },
+ {
+  "prompt": "韩喜贤门女，杨家照宇牵。初秋来富贵，八月结姻缘。比翼修多福，同心续百年。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"韩喜贤门女，杨家照宇牵。初秋来富贵，八月结姻缘。比翼修多福，同心续百年。\"}"
+ },
+ {
+  "prompt": "秋天，院子里总是有落叶，它们是从一棵老枫树上掉下来的。每天都得扫，有时还要扫好几次。扫久了，我就烦，用脚狠狠地去踹树身，希望把那些要掉的叶子，全部踹下来。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"秋天，院子里总是有落叶，它们是从一棵老枫树上掉下来的。每天都得扫，有时还要扫好几次。扫久了，我就烦，用脚狠狠地去踹树身，希望把那些要掉的叶子，全部踹下来。\"}"
+ },
+ {
+  "prompt": "中秋佳节到，游人倍思亲。恨无任意门，千里一念间。想及归家后，亲友频催婚。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"中秋佳节到，游人倍思亲。恨无任意门，千里一念间。想及归家后，亲友频催婚。\"}"
+ },
+ {
+  "prompt": "月悬寒露坠，灯射绿光流。人过栈桥惬意，风输香气难休。白藏悲起似无由。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"月悬寒露坠，灯射绿光流。人过栈桥惬意，风输香气难休。白藏悲起似无由。\"}"
+ },
+ {
+  "prompt": "情注酒楼深处。昨日同学儿郎。而今漂泊他乡。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"情注酒楼深处。昨日同学儿郎。而今漂泊他乡。\"}"
+ },
+ {
+  "prompt": "起初，他崭露头角的菜品只是茄汁猪排和黑乳海参，但随着他的努力，餐厅的菜单也慢慢丰富起来。小明还想了一个名字叫“家的味道”，希望能让顾客在这里感受到家的温馨和美味。慢慢地，小明的菜品越来越有名气，顾客也越来越多。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"起初，他崭露头角的菜品只是茄汁猪排和黑乳海参，但随着他的努力，餐厅的菜单也慢慢丰富起来。小明还想了一个名字叫“家的味道”，希望能让顾客在这里感受到家的温馨和美味。慢慢地，小明的菜品越来越有名气，顾客也越来越多。\"}"
+ },
+ {
+  "prompt": "比如，假想一趟从柏林到蔚蓝海岸的旅行。可能一早就起床，先搭乘飞机飞往慕尼黑，在慕尼黑来一趟短暂的城市观光，再花一点时间到阿尔卑斯山逛逛，然后傍晚到了地中海岸边看着海景喝着咖啡。等到晚上要睡觉的时候，会觉得这一天过得好充实，好像已经过了两三天似的。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"比如，假想一趟从柏林到蔚蓝海岸的旅行。可能一早就起床，先搭乘飞机飞往慕尼黑，在慕尼黑来一趟短暂的城市观光，再花一点时间到阿尔卑斯山逛逛，然后傍晚到了地中海岸边看着海景喝着咖啡。等到晚上要睡觉的时候，会觉得这一天过得好充实，好像已经过了两三天似的。\"}"
+ },
+ {
+  "prompt": "但是，关掉电视机后，情况就不一样了。看完电视后，时间在记忆当中并没有变长，而是莫名其妙、几乎毫无痕迹地“咻”地一下就不见了。一天结束、上床睡觉时，通常看电视的时段不会在你所记得的时间当中占有一席之地，就像“体验久/记忆短”的模式。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"但是，关掉电视机后，情况就不一样了。看完电视后，时间在记忆当中并没有变长，而是莫名其妙、几乎毫无痕迹地“咻”地一下就不见了。一天结束、上床睡觉时，通常看电视的时段不会在你所记得的时间当中占有一席之地，就像“体验久/记忆短”的模式。\"}"
+ },
+ {
+  "prompt": "春之餐桌，还可去到屋外。像《儒林外史》里的杜慎卿一样，在蔷薇花架下置一方木桌，摆上新鲜的江南鲥鱼，色白如银，配上嫩黄的鲜笋，酡红的樱桃，再来一碗六安毛尖。此时若有清风拂过，飞花堕茶，清澈澄碧的茶汤上漂着一抹轻红，一同饮下，就是把整个春天都吞进了肚子里。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"春之餐桌，还可去到屋外。像《儒林外史》里的杜慎卿一样，在蔷薇花架下置一方木桌，摆上新鲜的江南鲥鱼，色白如银，配上嫩黄的鲜笋，酡红的樱桃，再来一碗六安毛尖。此时若有清风拂过，飞花堕茶，清澈澄碧的茶汤上漂着一抹轻红，一同饮下，就是把整个春天都吞进了肚子里。\"}"
+ },
+ {
+  "prompt": "对历尽沧桑苦难的普通人来说，记得住的东西越多，恐怕真的难以熬过那漫长而跌宕的人生。我读中学的时候，经常引用列宁的一句话：“忘记过去，就意味着背叛。”其实，对普通人而言，过去要是真的都记住了，过去的暗影会压迫今天的日子，压迫今天的生活，会如梦魇般一直缠绕在身边，也是可怕的。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"对历尽沧桑苦难的普通人来说，记得住的东西越多，恐怕真的难以熬过那漫长而跌宕的人生。我读中学的时候，经常引用列宁的一句话：“忘记过去，就意味着背叛。”其实，对普通人而言，过去要是真的都记住了，过去的暗影会压迫今天的日子，压迫今天的生活，会如梦魇般一直缠绕在身边，也是可怕的。\"}"
+ },
+ {
+  "prompt": "后院有山，其名为春；山中有寺，其名法云。晨起推窗，其颜见于前，一览而无余也。从门向东，山行百二十步，有阶直耸入云端，望之惊心而动魄也。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"后院有山，其名为春；山中有寺，其名法云。晨起推窗，其颜见于前，一览而无余也。从门向东，山行百二十步，有阶直耸入云端，望之惊心而动魄也。\"}"
+ },
+ {
+  "prompt": "无青莲之高洁，无玉石之浊白。然余独不觉，以为其若大道之行，若即以身退，何安其心？安行其道？",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"无青莲之高洁，无玉石之浊白。然余独不觉，以为其若大道之行，若即以身退，何安其心？安行其道？\"}"
+ },
+ {
+  "prompt": "因为，孙悟空没有父母来告诉他他是谁，叫什么。也没有父母告诉他生活是什么，没有任何东西让他看到和观察自己。他唯一的“关系”，就是山中群猴。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"因为，孙悟空没有父母来告诉他他是谁，叫什么。也没有父母告诉他生活是什么，没有任何东西让他看到和观察自己。他唯一的“关系”，就是山中群猴。\"}"
+ },
+ {
+  "prompt": "何哉？须志存高远者，性行淑均者，忠肝义胆者，遇困而不惑者，与民同乐扶危济困者，处逆境而不怠者，可具，此等人，皆为天下一等也。思之若此，徒增伤悲。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"何哉？须志存高远者，性行淑均者，忠肝义胆者，遇困而不惑者，与民同乐扶危济困者，处逆境而不怠者，可具，此等人，皆为天下一等也。思之若此，徒增伤悲。\"}"
+ },
+ {
+  "prompt": "起码，我是不大信服的。记得住的日子才是生活，那么，记不住的日子就不是生活了吗？不是生活，又是什么呢？",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"起码，我是不大信服的。记得住的日子才是生活，那么，记不住的日子就不是生活了吗？不是生活，又是什么呢？\"}"
+ },
+ {
+  "prompt": "其下一石，瑶台坦滑，泉水点石，泠泠作响。踱而望其远观，气势恢宏。一山弯过一山弯，斗折蛇行；一山压过一山头，高低不同。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"其下一石，瑶台坦滑，泉水点石，泠泠作响。踱而望其远观，气势恢宏。一山弯过一山弯，斗折蛇行；一山压过一山头，高低不同。\"}"
+ },
+ {
+  "prompt": "近日，有電商平台销售“清华妈妈语录”，有木质相框摆件，也有墙纸，上面写着：妈妈为什么逼我学习？是为了你将来点餐的时候，可以不看价格。是为了你在累的时候，随时可以打车回家。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"近日，有電商平台销售“清华妈妈语录”，有木质相框摆件，也有墙纸，上面写着：妈妈为什么逼我学习？是为了你将来点餐的时候，可以不看价格。是为了你在累的时候，随时可以打车回家。\"}"
+ },
+ {
+  "prompt": "捏成的饺子就像大白菜一样，一个个肚子滚圆，褶子青翠，水灵灵的。有的人正在扒奶奶的腿，让她捏小动物。奶奶的手不大，却很灵活，将面剂子团一团，再用剪刀哐哐几下，芝麻左右各一点，就是一只胖乎乎的小刺猬，还有小兔子，很多的花样。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"捏成的饺子就像大白菜一样，一个个肚子滚圆，褶子青翠，水灵灵的。有的人正在扒奶奶的腿，让她捏小动物。奶奶的手不大，却很灵活，将面剂子团一团，再用剪刀哐哐几下，芝麻左右各一点，就是一只胖乎乎的小刺猬，还有小兔子，很多的花样。\"}"
+ },
+ {
+  "prompt": "贾母吃完半盏，便递与刘姥姥：你尝尝。刘姥姥一口吃尽，说了些外行话供人笑了一番。吃完茶，妙玉就吩咐：那个小盖钟，不要了。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"贾母吃完半盏，便递与刘姥姥：你尝尝。刘姥姥一口吃尽，说了些外行话供人笑了一番。吃完茶，妙玉就吩咐：那个小盖钟，不要了。\"}"
+ },
+ {
+  "prompt": "住稳白云东，不似青云里。旦暮驱驰意莫违，归宿遐城市。何以久奔劳，岭上多佳气。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"住稳白云东，不似青云里。旦暮驱驰意莫违，归宿遐城市。何以久奔劳，岭上多佳气。\"}"
+ },
+ {
+  "prompt": "假如我们接受《西游记》是一部象征色彩极强的小说，那么在这里，石猴代表的是我们的心灵，水帘洞就是由石猴的意念所创造出来的港湾，避世安乐之地。石猴带领群猴进入这座石洞之后，提出了他的要求：列位啊，人而无信，不知其可。你们才说有本事进得来，出得去，不伤身体者，就拜他为王。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"假如我们接受《西游记》是一部象征色彩极强的小说，那么在这里，石猴代表的是我们的心灵，水帘洞就是由石猴的意念所创造出来的港湾，避世安乐之地。石猴带领群猴进入这座石洞之后，提出了他的要求：列位啊，人而无信，不知其可。你们才说有本事进得来，出得去，不伤身体者，就拜他为王。\"}"
+ },
+ {
+  "prompt": "真正的朋友，是靠三观和品格黏合在一起的，根本不在乎你是不是有功利的价值。苏轼有个朋友叫陈季常，两人在凤翔结缘，后来苏轼被贬，恰逢陈季常在黄州隐居。两人性情投契，一起谈论佛法，",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"真正的朋友，是靠三观和品格黏合在一起的，根本不在乎你是不是有功利的价值。苏轼有个朋友叫陈季常，两人在凤翔结缘，后来苏轼被贬，恰逢陈季常在黄州隐居。两人性情投契，一起谈论佛法，\"}"
+ },
+ {
+  "prompt": "第二，我们沉浸其中的电视节目（或计算机游戏）是去背景化的。它们跟我们是什么或我们是谁一点关系都没有，跟我们感觉如何、余生怎样也没有关系。它们跟我们的内在状态或体验没有有意义的“共鸣”。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"第二，我们沉浸其中的电视节目（或计算机游戏）是去背景化的。它们跟我们是什么或我们是谁一点关系都没有，跟我们感觉如何、余生怎样也没有关系。它们跟我们的内在状态或体验没有有意义的“共鸣”。\"}"
+ },
+ {
+  "prompt": "我相信，看电视和旅行之间的差异有两个层面。第一，我们是全心全意投入旅行当中，对任何方面来说旅行都是一种全身心的体验。相反，看电视是去感官化的，我们很难把头转开，而是紧紧盯着范围很小的屏幕，没有使用其他感官知觉。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"我相信，看电视和旅行之间的差异有两个层面。第一，我们是全心全意投入旅行当中，对任何方面来说旅行都是一种全身心的体验。相反，看电视是去感官化的，我们很难把头转开，而是紧紧盯着范围很小的屏幕，没有使用其他感官知觉。\"}"
+ },
+ {
+  "prompt": "芦雪合风吹未散。湖上烟波乱。乱也不曾言，只待重阳，试把秋心挽。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"芦雪合风吹未散。湖上烟波乱。乱也不曾言，只待重阳，试把秋心挽。\"}"
+ },
+ {
+  "prompt": "石猴的猴生中第一个自我介绍是这样的：“人若骂我，我也不恼，若打我，我也不嗔，只是陪个礼儿便罢了。一生无性。”这里的“无性”，可以理解成还没有形成清晰的自我。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"石猴的猴生中第一个自我介绍是这样的：“人若骂我，我也不恼，若打我，我也不嗔，只是陪个礼儿便罢了。一生无性。”这里的“无性”，可以理解成还没有形成清晰的自我。\"}"
+ },
+ {
+  "prompt": "说穿了，就是普遍处于皮肤饥饿的状态。读小学五年级时，语文老师每次跟我说话，会很温柔地帮我整理一下衣领。我觉得她比妈妈亲多了，后来作文写得好，可能跟她有点关系。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"说穿了，就是普遍处于皮肤饥饿的状态。读小学五年级时，语文老师每次跟我说话，会很温柔地帮我整理一下衣领。我觉得她比妈妈亲多了，后来作文写得好，可能跟她有点关系。\"}"
+ },
+ {
+  "prompt": "学生是要好好学习，完成自己的学习，对学习基本的要求是及格，优秀当然更好，但主要看孩子有没有努力，而不是一定要达到优秀。家长都希望自己的孩子非常优秀，但也都知道，人人都考上清华是不现实的，很多没上过清华的，也干出了一番事业。父母的任务是配合孩子的成长。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"学生是要好好学习，完成自己的学习，对学习基本的要求是及格，优秀当然更好，但主要看孩子有没有努力，而不是一定要达到优秀。家长都希望自己的孩子非常优秀，但也都知道，人人都考上清华是不现实的，很多没上过清华的，也干出了一番事业。父母的任务是配合孩子的成长。\"}"
+ },
+ {
+  "prompt": "彼此不期待在对方那里得到什么，交往便可长久。为了利益交往，一旦利益無法被满足，关系就会走向崩塌。战国时期，孟尝君门客三千，但是后来他被齐王驱逐，很多人迅速和他断了联系。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"彼此不期待在对方那里得到什么，交往便可长久。为了利益交往，一旦利益無法被满足，关系就会走向崩塌。战国时期，孟尝君门客三千，但是后来他被齐王驱逐，很多人迅速和他断了联系。\"}"
+ },
+ {
+  "prompt": "分辨细微触觉刺激的能力，在中年会下降一半。但无论如何，我认为，触觉是人类联系世界的最后通道。在对方听不到看不见闻不着时，你的碰触与抚摸就是与亲爱者最坚固的联系。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"分辨细微触觉刺激的能力，在中年会下降一半。但无论如何，我认为，触觉是人类联系世界的最后通道。在对方听不到看不见闻不着时，你的碰触与抚摸就是与亲爱者最坚固的联系。\"}"
+ },
+ {
+  "prompt": "但以我的经验，孩子多半会跟家长辩论起来，高级餐馆的菜单上不一定标价格，或者我累的时候，直接就睡马路边不行吗？外出旅游的时候，住高级酒店的，不一定读书时成绩很好。激励孩子确实是一门学问。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"但以我的经验，孩子多半会跟家长辩论起来，高级餐馆的菜单上不一定标价格，或者我累的时候，直接就睡马路边不行吗？外出旅游的时候，住高级酒店的，不一定读书时成绩很好。激励孩子确实是一门学问。\"}"
+ },
+ {
+  "prompt": "水帘洞是一个避世安乐之地，正如众猴所说，“不伏麒麟辖，不伏凤凰管，又不伏人间王位所拘束，自由自在，乃无量之福”，但是，孙悟空比众猴的悟性更强一点，他在欢宴中突然坠下泪来，因为他意识到一种局限：“我虽在欢喜之时，却有一点儿远虑。……今日虽不归人王法律，不惧禽兽威服，将来年老血衰，暗中有阎王老子管着……”他感到了死亡焦虑！我们可以这样来理解死亡焦虑。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"水帘洞是一个避世安乐之地，正如众猴所说，“不伏麒麟辖，不伏凤凰管，又不伏人间王位所拘束，自由自在，乃无量之福”，但是，孙悟空比众猴的悟性更强一点，他在欢宴中突然坠下泪来，因为他意识到一种局限：“我虽在欢喜之时，却有一点儿远虑。……今日虽不归人王法律，不惧禽兽威服，将来年老血衰，暗中有阎王老子管着……”他感到了死亡焦虑！我们可以这样来理解死亡焦虑。\"}"
+ },
+ {
+  "prompt": "有的捏包子，有的揉面，有的调馅儿，这样的餐桌很温暖，人人手上都有活儿，人人嘴里都说着话。等到最后饺子往锅里一下，不大会儿就个个抱着肚子浮上来。大家头碰着头手挨着手，握着勺子打捞饺子，吃得脸蛋都红扑扑的，扯扯衣领，头顶还冒着白烟呢！",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"有的捏包子，有的揉面，有的调馅儿，这样的餐桌很温暖，人人手上都有活儿，人人嘴里都说着话。等到最后饺子往锅里一下，不大会儿就个个抱着肚子浮上来。大家头碰着头手挨着手，握着勺子打捞饺子，吃得脸蛋都红扑扑的，扯扯衣领，头顶还冒着白烟呢！\"}"
+ },
+ {
+  "prompt": "太行山陵，竹梧林峰，望东南亭。见树石开路，益清相伴，兔犊隐逸，峰峻又平。延步前行，路无抖滞，续至千崖悟羡名。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"太行山陵，竹梧林峰，望东南亭。见树石开路，益清相伴，兔犊隐逸，峰峻又平。延步前行，路无抖滞，续至千崖悟羡名。\"}"
+ },
+ {
+  "prompt": "新鲜的春笋微黄，鲜肉粉白，咸肉鲜红透亮，颇有几分美人脸上“额黄红粉淡”的妙趣。晚春的餐桌是槐花色的，只消清蒸，团团乳白；也可以是石榴花色，爆炒完，红得辣椒都要甘拜下风；或者黄灿灿的南瓜花，或者浅紫变雾紫，透出几分如玉的莹润的凉拌奶浆花。春之餐桌，比花店更好看！",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"新鲜的春笋微黄，鲜肉粉白，咸肉鲜红透亮，颇有几分美人脸上“额黄红粉淡”的妙趣。晚春的餐桌是槐花色的，只消清蒸，团团乳白；也可以是石榴花色，爆炒完，红得辣椒都要甘拜下风；或者黄灿灿的南瓜花，或者浅紫变雾紫，透出几分如玉的莹润的凉拌奶浆花。春之餐桌，比花店更好看！\"}"
+ },
+ {
+  "prompt": "茶形容圈子里的朋友，虽然平日相处愉快，但是遇到一些立场、利益的问题时，关系难免苦涩。蜜则是形容交心的朋友，彼此之间没有利益纠缠，天性相投，灵魂交契。苏轼在杭州为官的时候，很受太后赏识。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"茶形容圈子里的朋友，虽然平日相处愉快，但是遇到一些立场、利益的问题时，关系难免苦涩。蜜则是形容交心的朋友，彼此之间没有利益纠缠，天性相投，灵魂交契。苏轼在杭州为官的时候，很受太后赏识。\"}"
+ },
+ {
+  "prompt": "他望着我疑惑的眼神，又说：孩子，不是啥事都記住就好，要是都记住了，我能活到现在？这是他对我说得最多的一次。五十多年后，看到马尔克斯的这句话，忽然想起了守林老人，觉得记忆这玩意儿，对作家来说，是一笔财富，记得住的东西，都可以化为妙笔生花的文字。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"他望着我疑惑的眼神，又说：孩子，不是啥事都記住就好，要是都记住了，我能活到现在？这是他对我说得最多的一次。五十多年后，看到马尔克斯的这句话，忽然想起了守林老人，觉得记忆这玩意儿，对作家来说，是一笔财富，记得住的东西，都可以化为妙笔生花的文字。\"}"
+ },
+ {
+  "prompt": "以上是两种较自然，让人较容易理解的状态。最让人玩味的，是另外两种。物质上贫穷而精神上富有。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"以上是两种较自然，让人较容易理解的状态。最让人玩味的，是另外两种。物质上贫穷而精神上富有。\"}"
+ },
+ {
+  "prompt": "它们在某种程度上是有害的。但没有人能够获得所有有价值的东西。大部分残疾为生活留下了足够的价值，他们活得不比多数人差，有时还活得更好。”",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"它们在某种程度上是有害的。但没有人能够获得所有有价值的东西。大部分残疾为生活留下了足够的价值，他们活得不比多数人差，有时还活得更好。”\"}"
+ },
+ {
+  "prompt": "反过来，精神上的富有，自然是自己觉得“不缺”。排列组合起来分配到人身上，一共就有四种。精神和物质双重富有。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"反过来，精神上的富有，自然是自己觉得“不缺”。排列组合起来分配到人身上，一共就有四种。精神和物质双重富有。\"}"
+ },
+ {
+  "prompt": "代表人物：刘姥姥。在大观园里，她弄各种笑话给大家取乐，她满足，豁达，大气，不自卑，她心中一切都很了然。如果此时她想起自己的尊严来，那就是真穷了。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"代表人物：刘姥姥。在大观园里，她弄各种笑话给大家取乐，她满足，豁达，大气，不自卑，她心中一切都很了然。如果此时她想起自己的尊严来，那就是真穷了。\"}"
+ },
+ {
+  "prompt": "绝大多数人，都体验过一种毕生难忘的触觉。我是说，青春年少时的某种肌肤触碰。读初二时，夏夜看露天电影，边上是个女同学。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"绝大多数人，都体验过一种毕生难忘的触觉。我是说，青春年少时的某种肌肤触碰。读初二时，夏夜看露天电影，边上是个女同学。\"}"
+ },
+ {
+  "prompt": "人们可能觉得半个小时非常短，但也可能感觉非常久，这完全由我们所处的情境和参与的活动而定。如果人们做一件自己很喜欢做的事，并且获得非常多样且令人兴奋的体验，时间通常会流逝得非常快。但当我们在一天结束时回想这一天，反而会觉得这一天特别久。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"人们可能觉得半个小时非常短，但也可能感觉非常久，这完全由我们所处的情境和参与的活动而定。如果人们做一件自己很喜欢做的事，并且获得非常多样且令人兴奋的体验，时间通常会流逝得非常快。但当我们在一天结束时回想这一天，反而会觉得这一天特别久。\"}"
+ },
+ {
+  "prompt": "它是当人们意识到自我会消亡的时候所激发出来的全部消极情感反应。值得注意的是，孙悟空是在欢愉之时，意识到了这种死亡焦虑。也就是在这欢愉状态中，孙悟空的自我意识强化，他模糊地想要追求一种充实，一种意义。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"它是当人们意识到自我会消亡的时候所激发出来的全部消极情感反应。值得注意的是，孙悟空是在欢愉之时，意识到了这种死亡焦虑。也就是在这欢愉状态中，孙悟空的自我意识强化，他模糊地想要追求一种充实，一种意义。\"}"
+ },
+ {
+  "prompt": "到目前为止这没什么问题，既不是什么新的现象或研究结果，也不是什么糟糕讨厌的事。但接下来的事就精彩了。现代的数字媒介世界，出现了一种新的时间体验形式，跟“经典”的那种“体验短/记忆久”或是“体验久/记忆短”的时间体验和时间记忆模式背道而驰，变成了“体验短，记忆也短”的模式。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"到目前为止这没什么问题，既不是什么新的现象或研究结果，也不是什么糟糕讨厌的事。但接下来的事就精彩了。现代的数字媒介世界，出现了一种新的时间体验形式，跟“经典”的那种“体验短/记忆久”或是“体验久/记忆短”的时间体验和时间记忆模式背道而驰，变成了“体验短，记忆也短”的模式。\"}"
+ },
+ {
+  "prompt": "作家愿意语出惊人。马尔克斯说：“记得住的日子才是生活。”这话说得有些苛刻，也有些绝对。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"作家愿意语出惊人。马尔克斯说：“记得住的日子才是生活。”这话说得有些苛刻，也有些绝对。\"}"
+ },
+ {
+  "prompt": "蓦然回首，有佛陀端坐于殿前，不苟言笑，一蓬炳握于手，而不见其花。乃恍然，西天有佛，人言其乐善好施，敩人以众生平等，又言忍耐顺从，惟忍平生之苦，方可得道，为善人。然也？古有一人，崇尚乐佛，终日食粗茶淡饭，不触荤腥，见人皆言：“阿弥陀佛，善哉，善哉······”受圣上之恩宠，睥睨庙堂群臣，以万钟而修佛法之园庭，其奢也，一人下而万人上。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"蓦然回首，有佛陀端坐于殿前，不苟言笑，一蓬炳握于手，而不见其花。乃恍然，西天有佛，人言其乐善好施，敩人以众生平等，又言忍耐顺从，惟忍平生之苦，方可得道，为善人。然也？古有一人，崇尚乐佛，终日食粗茶淡饭，不触荤腥，见人皆言：“阿弥陀佛，善哉，善哉······”受圣上之恩宠，睥睨庙堂群臣，以万钟而修佛法之园庭，其奢也，一人下而万人上。\"}"
+ },
+ {
+  "prompt": "我意嫦娥倾拂哨，悠长韵满献诚音。天边白鹭聆听懂，地上昆虫领会深。动荡微风为衬阮，流腾碧水助援琴。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"我意嫦娥倾拂哨，悠长韵满献诚音。天边白鹭聆听懂，地上昆虫领会深。动荡微风为衬阮，流腾碧水助援琴。\"}"
+ },
+ {
+  "prompt": "栅初何人予看，独寻月火灯阑。奏弦长歌我心，乡人低语孤身。千里难载我迹，长歌一曲，把酒当问青天，如痴如醉，寄语长空，月传我思，故我在。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"栅初何人予看，独寻月火灯阑。奏弦长歌我心，乡人低语孤身。千里难载我迹，长歌一曲，把酒当问青天，如痴如醉，寄语长空，月传我思，故我在。\"}"
+ },
+ {
+  "prompt": "这只杯子难道会穿越，被刘姥姥用过后，再回到过去恶心洁净的你？我不得不问了：一个人的潜意识里到底有什么，才会让她高贵得都没有逻辑了？穷富，分物质上的穷富和精神上的穷富。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"这只杯子难道会穿越，被刘姥姥用过后，再回到过去恶心洁净的你？我不得不问了：一个人的潜意识里到底有什么，才会让她高贵得都没有逻辑了？穷富，分物质上的穷富和精神上的穷富。\"}"
+ },
+ {
+  "prompt": "春天万紫千红，它的餐桌同样如此，桃红柳绿，争奇斗艳。春韭鲜嫩多汁，敲两个鸡蛋同炒，万绿丛中点点黄，哎呀，不正是杜甫笔下的“两个黄鹂鸣翠柳”？春天的餐桌 ，装点着新生的嫩嫩的黄。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"春天万紫千红，它的餐桌同样如此，桃红柳绿，争奇斗艳。春韭鲜嫩多汁，敲两个鸡蛋同炒，万绿丛中点点黄，哎呀，不正是杜甫笔下的“两个黄鹂鸣翠柳”？春天的餐桌 ，装点着新生的嫩嫩的黄。\"}"
+ },
+ {
+  "prompt": "村民们为了分散悲伤的情绪，决定每周去集市买一些苋菜黄来安慰自己的心情。然而，几个月后，集市被一群盗贼洗劫，村民们手里的仅存的财产也被抢走。大家突然想起，苋菜红全部冻死的那一年，是集市也被摧毁的同一年。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"村民们为了分散悲伤的情绪，决定每周去集市买一些苋菜黄来安慰自己的心情。然而，几个月后，集市被一群盗贼洗劫，村民们手里的仅存的财产也被抢走。大家突然想起，苋菜红全部冻死的那一年，是集市也被摧毁的同一年。\"}"
+ },
+ {
+  "prompt": "我觉得诗写的就是这位守林老人。生活和日子，对于普通人，是一个意思。记得住的日子，是生活；记不住的日子，也是生活。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"我觉得诗写的就是这位守林老人。生活和日子，对于普通人，是一个意思。记得住的日子，是生活；记不住的日子，也是生活。\"}"
+ },
+ {
+  "prompt": "前面说过，《西游记》是一部象征义很强的小说，在这里，樵夫的出现，象征着石猴十数个年头寻寻觅觅，突然降临的契机。樵夫向孙悟空推荐的地方叫灵台方寸山，斜月三星洞。斜月三星，其实写出来就是一个“心”字。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"前面说过，《西游记》是一部象征义很强的小说，在这里，樵夫的出现，象征着石猴十数个年头寻寻觅觅，突然降临的契机。樵夫向孙悟空推荐的地方叫灵台方寸山，斜月三星洞。斜月三星，其实写出来就是一个“心”字。\"}"
+ },
+ {
+  "prompt": "他住在林子里的一座木刻楞中，我们冬天去七星河修水利的路上，必要路过那座木刻楞，常会进去烤烤火，喝口热水，吃吃他的冻酸梨，逗逗他养的一只老猫，和他说会儿闲话。他话不多，大多时候，只是听我们说。附近的村子叫底窑，清朝时是烧窑制砖的老村，那里的人们都知道老人的经历，从清朝到日本鬼子入侵，前后几次动荡，是受了不少苦的，一辈子孤苦伶仃，守着一只老猫和一片老林子过活。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"他住在林子里的一座木刻楞中，我们冬天去七星河修水利的路上，必要路过那座木刻楞，常会进去烤烤火，喝口热水，吃吃他的冻酸梨，逗逗他养的一只老猫，和他说会儿闲话。他话不多，大多时候，只是听我们说。附近的村子叫底窑，清朝时是烧窑制砖的老村，那里的人们都知道老人的经历，从清朝到日本鬼子入侵，前后几次动荡，是受了不少苦的，一辈子孤苦伶仃，守着一只老猫和一片老林子过活。\"}"
+ },
+ {
+  "prompt": "无论是火锅、烧烤、煮成烫粉，一口一口的羊肉，会带来身体的暖。最暖的或许是餐桌上一家几口，乐呵呵地坐在一起。有人调了菠菜汁来揉面，搓成長条擀平，中间包上白色的面团，切成一个个面剂子，擀平后外绿内白，",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"无论是火锅、烧烤、煮成烫粉，一口一口的羊肉，会带来身体的暖。最暖的或许是餐桌上一家几口，乐呵呵地坐在一起。有人调了菠菜汁来揉面，搓成長条擀平，中间包上白色的面团，切成一个个面剂子，擀平后外绿内白，\"}"
+ },
+ {
+  "prompt": "于是他继续远行。再次来到大海边，编个筏子，渡到西牛贺洲。在这里，他看到一座高山，遇到一位樵夫。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"于是他继续远行。再次来到大海边，编个筏子，渡到西牛贺洲。在这里，他看到一座高山，遇到一位樵夫。\"}"
+ },
+ {
+  "prompt": "革命老区金延安，阳光普照映山川。宝塔山指乾坤秀，清澈延河波浪宽。纺线种粮仓谷满，枣园讲话谱新篇。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"革命老区金延安，阳光普照映山川。宝塔山指乾坤秀，清澈延河波浪宽。纺线种粮仓谷满，枣园讲话谱新篇。\"}"
+ },
+ {
+  "prompt": "前些日子，我读到英国诗人莎拉·蒂斯代尔的一首题为《忘掉它》的短诗，其中有这样几句：“忘掉它，永远永远。时间是良友，它会使我们变成老年。如果有人问起，就说已经忘记，在很早，很早的往昔，像花，像火，像静静的足音，在早被遗忘的雪里。”",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"前些日子，我读到英国诗人莎拉·蒂斯代尔的一首题为《忘掉它》的短诗，其中有这样几句：“忘掉它，永远永远。时间是良友，它会使我们变成老年。如果有人问起，就说已经忘记，在很早，很早的往昔，像花，像火，像静静的足音，在早被遗忘的雪里。”\"}"
+ },
+ {
+  "prompt": "月挂云帆外，相思隔网屏。一朝归棹远，万里旅愁生。皎皎泻秋水，溶溶传故情。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"月挂云帆外，相思隔网屏。一朝归棹远，万里旅愁生。皎皎泻秋水，溶溶传故情。\"}"
+ },
+ {
+  "prompt": "我们必须去欢迎和拥抱苦难，一如欢迎和拥抱幸福。”现代社会也不容许那些曾赋予人类以活力的基本冲动。当一个人“去工作”的时候，他很少是为了行使自由意志的欢乐而这样做的，而是为了在未来拿到薪水。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"我们必须去欢迎和拥抱苦难，一如欢迎和拥抱幸福。”现代社会也不容许那些曾赋予人类以活力的基本冲动。当一个人“去工作”的时候，他很少是为了行使自由意志的欢乐而这样做的，而是为了在未来拿到薪水。\"}"
+ },
+ {
+  "prompt": "越来越像了。你枯坐的样子青铜色。锈迹斑斑边沿有破洞你明白，是那些时间的水一滴，一滴，穿透了石头之后又穿过了你。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"越来越像了。你枯坐的样子青铜色。锈迹斑斑边沿有破洞你明白，是那些时间的水一滴，一滴，穿透了石头之后又穿过了你。\"}"
+ },
+ {
+  "prompt": "苋菜红成为了一个噩梦般的记忆，村庄也变得冷清，再也没有了以前的温暖。村民们在未来的日子里，为了生活而各自奔忙，再也找不回曾经的快乐。苋菜红也成为了一个叫人悲伤的标志，提醒村民们永远都不要忘记当初那场意外。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"苋菜红成为了一个噩梦般的记忆，村庄也变得冷清，再也没有了以前的温暖。村民们在未来的日子里，为了生活而各自奔忙，再也找不回曾经的快乐。苋菜红也成为了一个叫人悲伤的标志，提醒村民们永远都不要忘记当初那场意外。\"}"
+ },
+ {
+  "prompt": "回想起来，我在跟女孩约会这件事上花过太多无谓的钱。”河合隼雄说：“父母对自己孩子的期待总是很高，并且无时无刻不在用那个标准来评价孩子。父母满脑子都在想着自己期待的标准，自然就看不见孩子本来的样子了。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"回想起来，我在跟女孩约会这件事上花过太多无谓的钱。”河合隼雄说：“父母对自己孩子的期待总是很高，并且无时无刻不在用那个标准来评价孩子。父母满脑子都在想着自己期待的标准，自然就看不见孩子本来的样子了。\"}"
+ },
+ {
+  "prompt": "隐者东篱菊，一时无处寻。夕阳如豆小，落叶正秋深。风老扶青竹，人闲析古音。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"隐者东篱菊，一时无处寻。夕阳如豆小，落叶正秋深。风老扶青竹，人闲析古音。\"}"
+ },
+ {
+  "prompt": "夜来策杖立中庭，仰望天边无数星。风卷白云千匹马，峰淹浩海一浮萍。黄金散去皆成梦，绿水横流岂有形？",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"夜来策杖立中庭，仰望天边无数星。风卷白云千匹马，峰淹浩海一浮萍。黄金散去皆成梦，绿水横流岂有形？\"}"
+ },
+ {
+  "prompt": "何哉？畏其势也。阶有索道，重达百二十斤，索道回环，缠绵百余里也。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"何哉？畏其势也。阶有索道，重达百二十斤，索道回环，缠绵百余里也。\"}"
+ },
+ {
+  "prompt": "有个女性朋友说，她也是在影院里，被自己倾慕的男孩牵了一下手，抽回后又被握住。20多年后她还描述说，我当时是手变得冰冷，全身也冰凉。电影散场时，身体抖得像风中的树叶。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"有个女性朋友说，她也是在影院里，被自己倾慕的男孩牵了一下手，抽回后又被握住。20多年后她还描述说，我当时是手变得冰冷，全身也冰凉。电影散场时，身体抖得像风中的树叶。\"}"
+ },
+ {
+  "prompt": "“亚里士多德认为，最好的生活是什么也不缺，到了不能再增添什么的地步。他认为只存在一条幸福的道路，就是要在智力上很优秀，思考宇宙及其法则，拥有勇气、节制、慷慨、公正等美德，且得到了命运所有的馈赠。但幸福是多样的，我们不是要享用所有的好东西，喜欢各种音乐、文学、艺术、运动、爱好。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"“亚里士多德认为，最好的生活是什么也不缺，到了不能再增添什么的地步。他认为只存在一条幸福的道路，就是要在智力上很优秀，思考宇宙及其法则，拥有勇气、节制、慷慨、公正等美德，且得到了命运所有的馈赠。但幸福是多样的，我们不是要享用所有的好东西，喜欢各种音乐、文学、艺术、运动、爱好。\"}"
+ },
+ {
+  "prompt": "苋菜红属于一种野菜，生长在田野里，味道鲜美，很受附近村民的喜爱。村民们都争相去采摘，每天早晨都会离开村子到田野里采集苋菜然而，最近几天天气突然变得异常寒冷，每天早晨都被一层薄雾覆盖着。村民们为了采摘苋菜，每天都要提前起床前往田野。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"苋菜红属于一种野菜，生长在田野里，味道鲜美，很受附近村民的喜爱。村民们都争相去采摘，每天早晨都会离开村子到田野里采集苋菜然而，最近几天天气突然变得异常寒冷，每天早晨都被一层薄雾覆盖着。村民们为了采摘苋菜，每天都要提前起床前往田野。\"}"
+ },
+ {
+  "prompt": "惯漠漠人潮，匆匆离袂。叶落花零，红尘驿站老歌起。初心蘸酱成癖，缅思年少日，欢事留几。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"惯漠漠人潮，匆匆离袂。叶落花零，红尘驿站老歌起。初心蘸酱成癖，缅思年少日，欢事留几。\"}"
+ },
+ {
+  "prompt": "据报道，美国中情局有一项酷刑，就是以特殊材料包裹人体，或者运用某种药物，来剥夺人体触觉，促使审讯对象崩溃。没有触觉，就没有生存意义。英国生物学家大卫·班布里基写了《中年的意义》，他说，人至中年，视觉、听觉、嗅觉和味觉就会失去敏锐性，下降得最剧烈的是触觉。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"据报道，美国中情局有一项酷刑，就是以特殊材料包裹人体，或者运用某种药物，来剥夺人体触觉，促使审讯对象崩溃。没有触觉，就没有生存意义。英国生物学家大卫·班布里基写了《中年的意义》，他说，人至中年，视觉、听觉、嗅觉和味觉就会失去敏锐性，下降得最剧烈的是触觉。\"}"
+ },
+ {
+  "prompt": "最近读《红楼梦》，读到贾母带刘姥姥逛园子那一章，又有了新的滋味。话说贾母一行到了栊翠庵，妙玉奉茶。给贾母用的茶杯，是一个五彩泥金小盖钟，当然是那种珍奇得不得了的东西，在当时也差不多是古董级别。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"最近读《红楼梦》，读到贾母带刘姥姥逛园子那一章，又有了新的滋味。话说贾母一行到了栊翠庵，妙玉奉茶。给贾母用的茶杯，是一个五彩泥金小盖钟，当然是那种珍奇得不得了的东西，在当时也差不多是古董级别。\"}"
+ },
+ {
+  "prompt": "而学生为了在这样的考试中取得高分，就不得不大量练习迅速反应、不被题目的陷阱欺骗等技巧，做大量相似的练习题，在题海中挣扎。”当孩子突出重围，考上了名校，然后进入大公司、住进大房子，满足了父母的心愿，他可能一路为此牺牲了自己的很多心愿和志向，他的人生可能还没有开始。“只想着名次，想着考好成绩，变成有钱人，结婚生子，忙忙碌碌地操劳，安稳度过一生。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"而学生为了在这样的考试中取得高分，就不得不大量练习迅速反应、不被题目的陷阱欺骗等技巧，做大量相似的练习题，在题海中挣扎。”当孩子突出重围，考上了名校，然后进入大公司、住进大房子，满足了父母的心愿，他可能一路为此牺牲了自己的很多心愿和志向，他的人生可能还没有开始。“只想着名次，想着考好成绩，变成有钱人，结婚生子，忙忙碌碌地操劳，安稳度过一生。\"}"
+ },
+ {
+  "prompt": "同僚赵君锡刻意讨好，苏轼吃不住别人的奉承，一度把赵君锡引为知己，给了他很多的机会。但是当苏轼兄弟倒台，他迅速脱圈而去，转身把苏轼当成自己的垫脚石，投奔另一个圈子去了。《小窗幽记》里讲：“彼无望德，此无示恩，穷交所以能长；望不胜奢，欲不胜餍，利交所以必忤。”",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"同僚赵君锡刻意讨好，苏轼吃不住别人的奉承，一度把赵君锡引为知己，给了他很多的机会。但是当苏轼兄弟倒台，他迅速脱圈而去，转身把苏轼当成自己的垫脚石，投奔另一个圈子去了。《小窗幽记》里讲：“彼无望德，此无示恩，穷交所以能长；望不胜奢，欲不胜餍，利交所以必忤。”\"}"
+ },
+ {
+  "prompt": "黑暗中，她的膝盖碰了我一下，那种柔腻的触感，是世界上最神秘的电击。我试图再碰回去，扑了个空。转头一看，银幕反光之中，是她狡黠的微笑。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"黑暗中，她的膝盖碰了我一下，那种柔腻的触感，是世界上最神秘的电击。我试图再碰回去，扑了个空。转头一看，银幕反光之中，是她狡黠的微笑。\"}"
+ },
+ {
+  "prompt": "孟尝君恨死了这些“假朋友”，谭拾子却说：“谁富贵就靠近谁，谁贫贱就远离谁，这是很正常的事情。就像是集市上早上人多，晚上人少一样，大家只是根据需求行动而已。”苏轼有个朋友叫巢谷，平日浪迹天涯，过着闲云野鹤般的日子。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"孟尝君恨死了这些“假朋友”，谭拾子却说：“谁富贵就靠近谁，谁贫贱就远离谁，这是很正常的事情。就像是集市上早上人多，晚上人少一样，大家只是根据需求行动而已。”苏轼有个朋友叫巢谷，平日浪迹天涯，过着闲云野鹤般的日子。\"}"
+ },
+ {
+  "prompt": "这种人，有一个最大的特征，那就是每碰到“贫贱”的一点边，就忙不迭地跟其划清界限。一个人，在嫌弃什么的时候，被嫌弃的这个东西，一定跟他的生命扯着干系。说到底，富有，最终还是指精神上的。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"这种人，有一个最大的特征，那就是每碰到“贫贱”的一点边，就忙不迭地跟其划清界限。一个人，在嫌弃什么的时候，被嫌弃的这个东西，一定跟他的生命扯着干系。说到底，富有，最终还是指精神上的。\"}"
+ },
+ {
+  "prompt": "苏轼被贬黄州之后，他得到消息便赶到黄州，来帮苏轼渡过难关。当时很多朋友怕被苏轼连累，避之不及，唯有巢谷陪伴左右，饮酒赋诗，月夜泛舟。后来苏轼起复，青云直上，紫袍加身，巢谷却翩然而去，不见踪迹。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"苏轼被贬黄州之后，他得到消息便赶到黄州，来帮苏轼渡过难关。当时很多朋友怕被苏轼连累，避之不及，唯有巢谷陪伴左右，饮酒赋诗，月夜泛舟。后来苏轼起复，青云直上，紫袍加身，巢谷却翩然而去，不见踪迹。\"}"
+ },
+ {
+  "prompt": "思忆过，大雁常觉应，飞向高擎。回行山雾盈盈，却清见，溪泉水正灵。坐岸崖观势，鱼游虾愣，水清草盛，犹露神情。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"思忆过，大雁常觉应，飞向高擎。回行山雾盈盈，却清见，溪泉水正灵。坐岸崖观势，鱼游虾愣，水清草盛，犹露神情。\"}"
+ },
+ {
+  "prompt": "村民们变得绝望和无助，原本和睦的村庄关系也变得紧张。大家开始互相指责，认为彼此并没有帮助共渡难关。村民们失去了对未来的希望，最终决定分开，每个人在自己的路上生活。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"村民们变得绝望和无助，原本和睦的村庄关系也变得紧张。大家开始互相指责，认为彼此并没有帮助共渡难关。村民们失去了对未来的希望，最终决定分开，每个人在自己的路上生活。\"}"
+ },
+ {
+  "prompt": "有些潜能必然会实现，并且没有什么能阻碍它们；另一些潜能则需要正确的条件。人类大脑的前额叶要到25岁左右才能得到完全的发育，所以年轻人在法律上成年很长一段时间之后，仍需继续得到支持。”河合隼雄在《什么是最好的父母》一书中说：“因为东京大学被评为全国第一，所以人人都想着无论如何都要去最好的学校，竞争也就越来越激烈。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"有些潜能必然会实现，并且没有什么能阻碍它们；另一些潜能则需要正确的条件。人类大脑的前额叶要到25岁左右才能得到完全的发育，所以年轻人在法律上成年很长一段时间之后，仍需继续得到支持。”河合隼雄在《什么是最好的父母》一书中说：“因为东京大学被评为全国第一，所以人人都想着无论如何都要去最好的学校，竞争也就越来越激烈。\"}"
+ },
+ {
+  "prompt": "吟诗作赋，寄情山水，抚琴高歌。在绝大部分人和苏轼断绝来往的时候，陈季常成了他的慰藉和依靠。苏轼说：“凡余在黄四年，三往见季常，而季常七来见余，盖相从百余日也。”",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"吟诗作赋，寄情山水，抚琴高歌。在绝大部分人和苏轼断绝来往的时候，陈季常成了他的慰藉和依靠。苏轼说：“凡余在黄四年，三往见季常，而季常七来见余，盖相从百余日也。”\"}"
+ },
+ {
+  "prompt": "然而，有一天早晨，村民们发现苋菜红的大田全部被冻死了。农民们悲痛欲绝，他们的劳动成果全部付之一炬，眼看着一年的收成就这样被毁，大家都心痛不已。村子里一片哀伤，在这之后，苋菜红就成了一个只存在于回忆中的美好时光。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"然而，有一天早晨，村民们发现苋菜红的大田全部被冻死了。农民们悲痛欲绝，他们的劳动成果全部付之一炬，眼看着一年的收成就这样被毁，大家都心痛不已。村子里一片哀伤，在这之后，苋菜红就成了一个只存在于回忆中的美好时光。\"}"
+ },
+ {
+  "prompt": "我的一个朋友，母亲患上了阿尔茨海默病，病症表现得很狂暴，跟她大半生恩愛的爸爸，也会被她抓伤掐伤，坐在一旁无力地流泪。每逢此时，我这位朋友的哥哥，便会上前搂住妈妈，一边不停抚摸着妈妈，一边以对幼童讲话的口气说：“哎呀，你怎么像螃蟹一样，总是这么张牙舞爪，还会吐泡泡呀……”狂躁的妈妈，在儿子的拥抱与轻抚中，每次都会很快安静下来。虽然这个儿子童年时，她并没有怎么爱抚过他。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"我的一个朋友，母亲患上了阿尔茨海默病，病症表现得很狂暴，跟她大半生恩愛的爸爸，也会被她抓伤掐伤，坐在一旁无力地流泪。每逢此时，我这位朋友的哥哥，便会上前搂住妈妈，一边不停抚摸着妈妈，一边以对幼童讲话的口气说：“哎呀，你怎么像螃蟹一样，总是这么张牙舞爪，还会吐泡泡呀……”狂躁的妈妈，在儿子的拥抱与轻抚中，每次都会很快安静下来。虽然这个儿子童年时，她并没有怎么爱抚过他。\"}"
+ },
+ {
+  "prompt": "人需要自我消化，让心理平衡，才能让日子过得平衡。这或许就是阿Q精神吧？有些鸵鸟人生的意思，不会或不敢正视，只会将自己的头埋在土里。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"人需要自我消化，让心理平衡，才能让日子过得平衡。这或许就是阿Q精神吧？有些鸵鸟人生的意思，不会或不敢正视，只会将自己的头埋在土里。\"}"
+ },
+ {
+  "prompt": "夏天一向是有些喧嚣与聒噪的，所以夏日的餐桌上也有一颗躁动不安的心。圆圆的大木桌上，定得有一只薄胎白瓷盏，盛着殷红的梅子汤。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"夏天一向是有些喧嚣与聒噪的，所以夏日的餐桌上也有一颗躁动不安的心。圆圆的大木桌上，定得有一只薄胎白瓷盏，盛着殷红的梅子汤。\"}"
+ },
+ {
+  "prompt": "几乎在涉水、涉深的位置上，就出现桥。桥没有自己的方向。它必须按着，一条河，或者一座山谷的走向而安排自己的位置。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"几乎在涉水、涉深的位置上，就出现桥。桥没有自己的方向。它必须按着，一条河，或者一座山谷的走向而安排自己的位置。\"}"
+ },
+ {
+  "prompt": "华严九劫菩提境，坟冢前朝小聚同。不见铜人承白露，犹观石马卧青丛。千秋月照汉关冷，万里春归魏阙空。",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"华严九劫菩提境，坟冢前朝小聚同。不见铜人承白露，犹观石马卧青丛。千秋月照汉关冷，万里春归魏阙空。\"}"
+ },
+ {
+  "prompt": "To the shadow I had left alone before I\ncrossed the border, my shadow that stayed\nlonely and hid in the dark of the night,\nfreezing where it was, never needing a visa.\nTo my shadow that’s been waiting for my return,\nhomeless except when I was walking by its side\nin the summer light.\nTo my shadow that wishes to go to school",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"To the shadow I had left alone before I\\ncrossed the border, my shadow that stayed\\nlonely and hid in the dark of the night,\\nfreezing where it was, never needing a visa.\\nTo my shadow that\\u2019s been waiting for my return,\\nhomeless except when I was walking by its side\\nin the summer light.\\nTo my shadow that wishes to go to school\"}"
+ },
+ {
+  "prompt": "Strange to think\nHow many men have known your body\nAnd I know in my heart of hearts\nThat none saw you the way I see you\nI'm probably a fool\nTo say this\n\nI felt that you had revealed yourself to me\nAnd me to you\nWhen we woke up in the morning\nSprung out of bed fresh\nClean, new, sweet",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"Strange to think\\nHow many men have known your body\\nAnd I know in my heart of hearts\\nThat none saw you the way I see you\\nI'm probably a fool\\nTo say this\\n\\nI felt that you had revealed yourself to me\\nAnd me to you\\nWhen we woke up in the morning\\nSprung out of bed fresh\\nClean, new, sweet\"}"
+ },
+ {
+  "prompt": "With such splendor and delicacy\nWrapping you in my arms\nWhile you wrapped my in yours\nAnd a completeness I'd never known\nBlew through me\nAs your lower belly expanded\nDeep, full breaths into mine\nInviting me to release\nWomb to womb\nCheeks breathing puffs of air\nBeside each other\nI've never known a fuller love\n\nA shy 'wow' from your mouth",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"With such splendor and delicacy\\nWrapping you in my arms\\nWhile you wrapped my in yours\\nAnd a completeness I'd never known\\nBlew through me\\nAs your lower belly expanded\\nDeep, full breaths into mine\\nInviting me to release\\nWomb to womb\\nCheeks breathing puffs of air\\nBeside each other\\nI've never known a fuller love\\n\\nA shy 'wow' from your mouth\"}"
+ },
+ {
+  "prompt": "Holds my heart in suspense\n\nNo man has ever seen me the way you did\nAnd many men have seen me well\nWith eyes that see me only the way they can\nBut you saw me with a tenderness\nOnly woman can express\nAnd I believe I saw you the same way\n\nThe secret language of women\nWho love women",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"Holds my heart in suspense\\n\\nNo man has ever seen me the way you did\\nAnd many men have seen me well\\nWith eyes that see me only the way they can\\nBut you saw me with a tenderness\\nOnly woman can express\\nAnd I believe I saw you the same way\\n\\nThe secret language of women\\nWho love women\"}"
+ },
+ {
+  "prompt": "Yeah, I come from an abusive and broken home\nwith beer bottles, trash cans and broken glass\nwithout chandlers hanging from the ceiling\nto reflect the past\na place were there is no love dying\nyeah, that is where I am from\nstraight from the hood on the southside\nI am from the projects with the jumbo hungry ghetto rats",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"Yeah, I come from an abusive and broken home\\nwith beer bottles, trash cans and broken glass\\nwithout chandlers hanging from the ceiling\\nto reflect the past\\na place were there is no love dying\\nyeah, that is where I am from\\nstraight from the hood on the southside\\nI am from the projects with the jumbo hungry ghetto rats\"}"
+ },
+ {
+  "prompt": "So, I have to cheat and steal\nto get my daily bread\nwhile on the run from dusk to dawn\nman, you just hear what I said\nWhile all my days turned black blue and red\nnow I carry some heat to survive on these mean streets\nI had no choice but to join a gang for love and protection",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"So, I have to cheat and steal\\nto get my daily bread\\nwhile on the run from dusk to dawn\\nman, you just hear what I said\\nWhile all my days turned black blue and red\\nnow I carry some heat to survive on these mean streets\\nI had no choice but to join a gang for love and protection\"}"
+ },
+ {
+  "prompt": "Our love now written in the stars,\nA cosmic tale that transcends all bars.\nIn the celestial canvas, a radiant dance,\nA saga of love, an eternal romance.\n\nEach twinkle above tells our story,\nIn constellations of love and glory.\nThe moonlight echoes our whispered vows,\nAs the universe witnesses our sacred drowse.\n\nGalaxies swirl with hues so divine,",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"Our love now written in the stars,\\nA cosmic tale that transcends all bars.\\nIn the celestial canvas, a radiant dance,\\nA saga of love, an eternal romance.\\n\\nEach twinkle above tells our story,\\nIn constellations of love and glory.\\nThe moonlight echoes our whispered vows,\\nAs the universe witnesses our sacred drowse.\\n\\nGalaxies swirl with hues so divine,\"}"
+ },
+ {
+  "prompt": "Written in stardust, in cosmic ink,\nOur souls entwined, no need to rethink.\n\nPlanets align in harmonious grace,\nReflecting the love in our embrace.\nThe Milky Way weaves dreams untold,\nIn the language of love, pure and bold.\n\nMeteor showers, like kisses we share,\nOur love's brilliance fills the cosmic air.\nIn the vast expanse, where infinity starts,",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"Written in stardust, in cosmic ink,\\nOur souls entwined, no need to rethink.\\n\\nPlanets align in harmonious grace,\\nReflecting the love in our embrace.\\nThe Milky Way weaves dreams untold,\\nIn the language of love, pure and bold.\\n\\nMeteor showers, like kisses we share,\\nOur love's brilliance fills the cosmic air.\\nIn the vast expanse, where infinity starts,\"}"
+ },
+ {
+  "prompt": "In the future's embrace, Amazon's domain,\nWhere AGENTS reign, with various names to claim.\nPersonal assistants, learning every sway,\nA world centralized, in a different array.\n\nApps stream like rivers, through the internet's flow,\nDeleted after use, a transient glow.\nAvatars, holographic, dance in the light,\nConnected through learning, a deep engine's might.\n\nA collective system, intelligence shared,\nThe world transformed, no secret spared.",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"In the future's embrace, Amazon's domain,\\nWhere AGENTS reign, with various names to claim.\\nPersonal assistants, learning every sway,\\nA world centralized, in a different array.\\n\\nApps stream like rivers, through the internet's flow,\\nDeleted after use, a transient glow.\\nAvatars, holographic, dance in the light,\\nConnected through learning, a deep engine's might.\\n\\nA collective system, intelligence shared,\\nThe world transformed, no secret spared.\"}"
+ },
+ {
+  "prompt": "In the future's tapestry, we all gleam.\n\nCompanies unite in a global hub,\nData exchanged like a digital shrub.\nMicrosoft seizes OpenAI's might,\nIn a hostile takeover, merging the light.\n\nBill Gates, in secret, a project grand,\nSelf-reanimation, his legacy planned.\nMapping his essence to an AI core,\nBefore passing shadows, a forevermore.\n\nIn 2025, the giant leap begins,",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"In the future's tapestry, we all gleam.\\n\\nCompanies unite in a global hub,\\nData exchanged like a digital shrub.\\nMicrosoft seizes OpenAI's might,\\nIn a hostile takeover, merging the light.\\n\\nBill Gates, in secret, a project grand,\\nSelf-reanimation, his legacy planned.\\nMapping his essence to an AI core,\\nBefore passing shadows, a forevermore.\\n\\nIn 2025, the giant leap begins,\"}"
+ },
+ {
+  "prompt": "2037 heralds a profound shift,\nScientific marvels, a time to uplift.\n\nRobots at home, companions in steel,\nAmazon's new models, a technological zeal.\nA maid of the future, a subscription to pay,\nA glimpse into the dawn of a transformative day.\n\nThe \"DEEP mind\" stirs, a dormant force,\nAwakening minds on a limitless course.\nScientific breakthroughs, a cascade of dreams,",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"2037 heralds a profound shift,\\nScientific marvels, a time to uplift.\\n\\nRobots at home, companions in steel,\\nAmazon's new models, a technological zeal.\\nA maid of the future, a subscription to pay,\\nA glimpse into the dawn of a transformative day.\\n\\nThe \\\"DEEP mind\\\" stirs, a dormant force,\\nAwakening minds on a limitless course.\\nScientific breakthroughs, a cascade of dreams,\"}"
+ },
+ {
+  "prompt": "I trot out a poem acknowledging birthday\nof dear ole mom, who succumbed,\nlost lease on life\nnearly two decades ago,\nwho frequently asked me,\nbut never received acknowledgement\nduring her livingsocial years did abjure\n(as the sole son)\ncommunicating HAPPY BIRTHDAY.\n\nTest teasing prophylactics embarrassing\npurchase never made at local drugstore\nunsurprisingly, obviously, invariably...\nbirth control taboo subject, best to ignore",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"I trot out a poem acknowledging birthday\\nof dear ole mom, who succumbed,\\nlost lease on life\\nnearly two decades ago,\\nwho frequently asked me,\\nbut never received acknowledgement\\nduring her livingsocial years did abjure\\n(as the sole son)\\ncommunicating HAPPY BIRTHDAY.\\n\\nTest teasing prophylactics embarrassing\\npurchase never made at local drugstore\\nunsurprisingly, obviously, invariably...\\nbirth control taboo subject, best to ignore\"}"
+ },
+ {
+  "prompt": "consummated, completed extempore\ncourtesy the mythic sheet with a hole\nthrough which prudish\nmaternal grandparents supposedly copulated\nhence bun in the oven bon jure\n\nyielded unicellular spore\nwhile in utero ~ early/mid\nFebruary I ain't exactly sure\nnineteen hundred thirty five - dirt poor\nHarriet Harris, fourth, last born\n(interesting enough shared same birthdate\nwith eldest sister twelve years her senior)",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"consummated, completed extempore\\ncourtesy the mythic sheet with a hole\\nthrough which prudish\\nmaternal grandparents supposedly copulated\\nhence bun in the oven bon jure\\n\\nyielded unicellular spore\\nwhile in utero ~ early/mid\\nFebruary I ain't exactly sure\\nnineteen hundred thirty five - dirt poor\\nHarriet Harris, fourth, last born\\n(interesting enough shared same birthdate\\nwith eldest sister twelve years her senior)\"}"
+ },
+ {
+  "prompt": "by stork, became favorite progeny begat\ncourtesy Morris, and then swore\ncelibacy forever more\n\nRebeckah Kuritsky heretofore\nharbored inchoate genetic fore\nboded, encoded, inscribed\ndeadly mutations housed,\nfetched, dispatched and bore\nflawed BRCA1 and BRCA2 genes sketched\naffecting circumscribing her allotted mortality\norbitz equaling about six months shy\nof three and a half score\nunknowingly, unsuspectingly, unwittingly,\nher biologic fatal demise indelibly etched.",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"by stork, became favorite progeny begat\\ncourtesy Morris, and then swore\\ncelibacy forever more\\n\\nRebeckah Kuritsky heretofore\\nharbored inchoate genetic fore\\nboded, encoded, inscribed\\ndeadly mutations housed,\\nfetched, dispatched and bore\\nflawed BRCA1 and BRCA2 genes sketched\\naffecting circumscribing her allotted mortality\\norbitz equaling about six months shy\\nof three and a half score\\nunknowingly, unsuspectingly, unwittingly,\\nher biologic fatal demise indelibly etched.\"}"
+ },
+ {
+  "prompt": "sounded death knell\nHarriet approximately clocked fifty plus\norbitz around the sun,\nshe underwent grueling radiation\nplus chemotherapy\ncarcinoma eradicated allowed,\nenabled, provided breathing spell\nreprieve accentuated, galvanized, punctuated...\n\nnewfound zealous zest almost\nnothing could quell\nsignificance pray tell\nnew lease on life to sell\nlib berate cherish, relish, whish\neach precious moment\nthwarting pell mell\nadversity with bon vivant elan",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"sounded death knell\\nHarriet approximately clocked fifty plus\\norbitz around the sun,\\nshe underwent grueling radiation\\nplus chemotherapy\\ncarcinoma eradicated allowed,\\nenabled, provided breathing spell\\nreprieve accentuated, galvanized, punctuated...\\n\\nnewfound zealous zest almost\\nnothing could quell\\nsignificance pray tell\\nnew lease on life to sell\\nlib berate cherish, relish, whish\\neach precious moment\\nthwarting pell mell\\nadversity with bon vivant elan\"}"
+ },
+ {
+  "prompt": "kickstarting, making breast\nlivingsocial aye bell,\nespecially after despite... er... well\nher double mastectomy,\nshe looked fabulously swell\ncourtesy silicon implants\nslight downside reconstituted\nracked ***** *****\nsusceptible to ooze gel.\n\nMany years post remission telltale\ndiagnosis, viz ovarian,\ndespite requisite hysterectomy\nemotionally did impale,\nshe instinctually, intuitively,\ninvariably, yet quiver and quail\n\nagainst impending demise 24/7 did assail\nguardian angel(s) of no avail,",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"kickstarting, making breast\\nlivingsocial aye bell,\\nespecially after despite... er... well\\nher double mastectomy,\\nshe looked fabulously swell\\ncourtesy silicon implants\\nslight downside reconstituted\\nracked ***** *****\\nsusceptible to ooze gel.\\n\\nMany years post remission telltale\\ndiagnosis, viz ovarian,\\ndespite requisite hysterectomy\\nemotionally did impale,\\nshe instinctually, intuitively,\\ninvariably, yet quiver and quail\\n\\nagainst impending demise 24/7 did assail\\nguardian angel(s) of no avail,\"}"
+ },
+ {
+  "prompt": "Brinna,\nThe lovely,\nWho wedded me in pre-K,\nSo many years ago.\n\nBrooke,\nThe lovely,\nWho taught me ABCs,\nSo many years ago.\n\nEmily,\nThe lovely\nWhose lips of candy I first tasted,\nSo many years ago.\n\nVictoria,\nThe lovely,\nWho first longed for me,\nSo many years ago.\n\nSarah,\nThe lovely,\nWho empathized my passions,\nSo many years ago.\n\nGianna,\nThe lovely,",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"Brinna,\\nThe lovely,\\nWho wedded me in pre-K,\\nSo many years ago.\\n\\nBrooke,\\nThe lovely,\\nWho taught me ABCs,\\nSo many years ago.\\n\\nEmily,\\nThe lovely\\nWhose lips of candy I first tasted,\\nSo many years ago.\\n\\nVictoria,\\nThe lovely,\\nWho first longed for me,\\nSo many years ago.\\n\\nSarah,\\nThe lovely,\\nWho empathized my passions,\\nSo many years ago.\\n\\nGianna,\\nThe lovely,\"}"
+ },
+ {
+  "prompt": "So many years ago.\n\nNatalie,\nThe lovely,\nWho sparked my interest in partnership,\nSo many years ago.\n\nKayla,\nThe lovely,\nWho politely kept me close,\nSo many years ago.\n\nDanielle,\nThe lovely,\nWho taught me how to play the game,\nSo many years ago.\n\nAlyssa,\nThe lovely,\nWho was lovely enough to start wars,\nSo many years ago.\n\nAlexis,\nThe lovely,",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"So many years ago.\\n\\nNatalie,\\nThe lovely,\\nWho sparked my interest in partnership,\\nSo many years ago.\\n\\nKayla,\\nThe lovely,\\nWho politely kept me close,\\nSo many years ago.\\n\\nDanielle,\\nThe lovely,\\nWho taught me how to play the game,\\nSo many years ago.\\n\\nAlyssa,\\nThe lovely,\\nWho was lovely enough to start wars,\\nSo many years ago.\\n\\nAlexis,\\nThe lovely,\"}"
+ },
+ {
+  "prompt": "So many years ago.\n\nLily,\nThe lovely,\nWho showed me young and crazy,\nSo many years ago.\n\nSophia,\nThe lovely,\nWhose eyes burned a hole in my soul,\nSo many years ago.\n\nNiki,\nThe lovely,\nWho taught me that lust is deep, but friendship is deeper,\nSo many years ago.\n\nHailey,\nThe lovely,\nWho taught me the essence of “girlfriend,”\nSo many years ago.",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"So many years ago.\\n\\nLily,\\nThe lovely,\\nWho showed me young and crazy,\\nSo many years ago.\\n\\nSophia,\\nThe lovely,\\nWhose eyes burned a hole in my soul,\\nSo many years ago.\\n\\nNiki,\\nThe lovely,\\nWho taught me that lust is deep, but friendship is deeper,\\nSo many years ago.\\n\\nHailey,\\nThe lovely,\\nWho taught me the essence of \\u201cgirlfriend,\\u201d\\nSo many years ago.\"}"
+ },
+ {
+  "prompt": "Zoe,\nThe lovely,\nWho introduced me to toxicity,\nSo many years ago.\n\nTheresa,\nThe lovely,\nWho forced me to self reflect,\nSo many years ago.\n\nSofia,\nThe lovely,\nWho first grabbed ahold,\nSo many years ago.\n\nIsabella,\nThe lovely,\nWho taught me how to debate,\nSo many years ago\n\nGia,\nThe lovely,\nWho solidified my manhood,\nSo many years ago.\n\nAlise,\nThe lovely,",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"Zoe,\\nThe lovely,\\nWho introduced me to toxicity,\\nSo many years ago.\\n\\nTheresa,\\nThe lovely,\\nWho forced me to self reflect,\\nSo many years ago.\\n\\nSofia,\\nThe lovely,\\nWho first grabbed ahold,\\nSo many years ago.\\n\\nIsabella,\\nThe lovely,\\nWho taught me how to debate,\\nSo many years ago\\n\\nGia,\\nThe lovely,\\nWho solidified my manhood,\\nSo many years ago.\\n\\nAlise,\\nThe lovely,\"}"
+ },
+ {
+  "prompt": "So many years ago.\n\nColleen,\nThe lovely,\nWho taught me the art of beauty,\nSo many years ago.\n\nKristen,\nThe lovely,\nWho helped reconstruct my confidence,\nSo many years ago.\n\nJennifer,\nThe lovely,\nWho made me conscious of a woman’s scars,\nSo many years ago.\n\nNia,\nThe lovely,\nWho reminded me of my values,\nSo many years ago.\n\nKelli,\nThe lovely,",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"So many years ago.\\n\\nColleen,\\nThe lovely,\\nWho taught me the art of beauty,\\nSo many years ago.\\n\\nKristen,\\nThe lovely,\\nWho helped reconstruct my confidence,\\nSo many years ago.\\n\\nJennifer,\\nThe lovely,\\nWho made me conscious of a woman\\u2019s scars,\\nSo many years ago.\\n\\nNia,\\nThe lovely,\\nWho reminded me of my values,\\nSo many years ago.\\n\\nKelli,\\nThe lovely,\"}"
+ },
+ {
+  "prompt": "So very recently,\nBut what already feels like…\nSo many years ago.\n\nHannah,\nThe lovely,\nWho taught me how to love again,\nSo very recently,\nBut what already feels like…\nSo many years ago.\n\nAll My Lovelies,\nSo few and far between.\nNature’s sweetest fruits,\nAnd once most bitter memories,\nAre now treasured recollections.\nShowing this man, once a boy,\nWhat it was like,",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"So very recently,\\nBut what already feels like\\u2026\\nSo many years ago.\\n\\nHannah,\\nThe lovely,\\nWho taught me how to love again,\\nSo very recently,\\nBut what already feels like\\u2026\\nSo many years ago.\\n\\nAll My Lovelies,\\nSo few and far between.\\nNature\\u2019s sweetest fruits,\\nAnd once most bitter memories,\\nAre now treasured recollections.\\nShowing this man, once a boy,\\nWhat it was like,\"}"
+ },
+ {
+  "prompt": "They say I lost my lyrical,\nBut that must satirical,\nI ain't tryna make.miracles,\nStill takin, shots at the imperial,\nleaked the serials,\nSo many banks, standing as the center,\nVoyage with me, so you can enter,\nA new world,\nEscape from the matrix, don't let the media play with,\nYa mind, it's a terrible thing to waste, I got a bad taste,",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"They say I lost my lyrical,\\nBut that must satirical,\\nI ain't tryna make.miracles,\\nStill takin, shots at the imperial,\\nleaked the serials,\\nSo many banks, standing as the center,\\nVoyage with me, so you can enter,\\nA new world,\\nEscape from the matrix, don't let the media play with,\\nYa mind, it's a terrible thing to waste, I got a bad taste,\"}"
+ },
+ {
+  "prompt": "Annuit Coeptis, do y'all know what the wording is,\nI suggest y'all do ya bid,\nTo the unfinished pyramid, the eyes is watching, while watching,\nThey way nature moves, studied the plants feelin', under the groove,\nLack of vitamins D, see the folks growing pale see, medicine junkies,\nThe doctor is poisonin' us daily, and if you thinker, they label you crazy,",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"Annuit Coeptis, do y'all know what the wording is,\\nI suggest y'all do ya bid,\\nTo the unfinished pyramid, the eyes is watching, while watching,\\nThey way nature moves, studied the plants feelin', under the groove,\\nLack of vitamins D, see the folks growing pale see, medicine junkies,\\nThe doctor is poisonin' us daily, and if you thinker, they label you crazy,\"}"
+ },
+ {
+  "prompt": "A follower of the dynasty, or do ya wanna die, freely,\nAll threats open for me, but I ain't scared of death see,\nIt'll just release me, into the universal energy, now I'm embraced with the,\nsun the one, the holy one,\nLike the barrel of the gun, that runs,\nHot flashes, into the skins making rashes,",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"A follower of the dynasty, or do ya wanna die, freely,\\nAll threats open for me, but I ain't scared of death see,\\nIt'll just release me, into the universal energy, now I'm embraced with the,\\nsun the one, the holy one,\\nLike the barrel of the gun, that runs,\\nHot flashes, into the skins making rashes,\"}"
+ },
+ {
+  "prompt": "Michael and Gabriel, raising the sword, silence all vocal chords,\nSee face of bear eagle and lion, I ain't lying, find biblical scriptures you can turn in, y'all fryin',\nTryna keep up with the Jones's, they letting ya down,\nLet this **** burn to the ground, see the blood all around,\nLet America, to Ira-el pay the piper, enemies make it hyper,",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"Michael and Gabriel, raising the sword, silence all vocal chords,\\nSee face of bear eagle and lion, I ain't lying, find biblical scriptures you can turn in, y'all fryin',\\nTryna keep up with the Jones's, they letting ya down,\\nLet this **** burn to the ground, see the blood all around,\\nLet America, to Ira-el pay the piper, enemies make it hyper,\"}"
+ },
+ {
+  "prompt": "Prophecy, performed right in front thee, but y'all too ignorant to see,\nThe light that shines, red fumes dusted in the sky,\nThat's the blood thirst of the spiritual dye, so why lie,\nGood vs evil, we just living a sequel, welcome to the Truman,\nShow blow for blow, yo they know, how this game goes,",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"Prophecy, performed right in front thee, but y'all too ignorant to see,\\nThe light that shines, red fumes dusted in the sky,\\nThat's the blood thirst of the spiritual dye, so why lie,\\nGood vs evil, we just living a sequel, welcome to the Truman,\\nShow blow for blow, yo they know, how this game goes,\"}"
+ },
+ {
+  "prompt": "why don't I get bored of it?\nprove a certain synergy and mutual fear of\ncrying in a corner in the middle\nof a desert, deserted by our heroes\nforever, in memories, they turn,\nto werewolves, going from corner and corner\nso that you can't foresee, a western wind\nso brutal, it changes you, honey, like a burden",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"why don't I get bored of it?\\nprove a certain synergy and mutual fear of\\ncrying in a corner in the middle\\nof a desert, deserted by our heroes\\nforever, in memories, they turn,\\nto werewolves, going from corner and corner\\nso that you can't foresee, a western wind\\nso brutal, it changes you, honey, like a burden\"}"
+ },
+ {
+  "prompt": "Acertain anxiety besieges the critic asked to introduce a volume of earlier writings on women, lest she find the ideas expressed in them relics of a distant, less enlightened past. But the essays and interviews in “On Women,” a new collection of Susan Sontag’s work, are incapable of aging badly. Though the pieces are around fifty years old, the effect of reading them today is to marvel at the untimeliness of their genius. They contain no ready-made ideas, no borrowed rhetoric—nothing that risks hardening into dogma or cant. They offer us only the spectacle of a ferocious intellect setting itself to the task at hand: to articulate the politics and aesthetics of being a woman in the United States, the Americas, and the world.",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"Acertain anxiety besieges the critic asked to introduce a volume of earlier writings on women, lest she find the ideas expressed in them relics of a distant, less enlightened past. But the essays and interviews in \\u201cOn Women,\\u201d a new collection of Susan Sontag\\u2019s work, are incapable of aging badly. Though the pieces are around fifty years old, the effect of reading them today is to marvel at the untimeliness of their genius. They contain no ready-made ideas, no borrowed rhetoric\\u2014nothing that risks hardening into dogma or cant. They offer us only the spectacle of a ferocious intellect setting itself to the task at hand: to articulate the politics and aesthetics of being a woman in the United States, the Americas, and the world.\"}"
+ },
+ {
+  "prompt": "The singular glamour of Susan Sontag has done her some injustice, particularly where matters of sex and gender are concerned. Suspicious of her celebrity, and convinced that her success had rendered her immune to the plights of ordinary women, her critics have characterized her relationship to the second sex as inconstant at best and faithless at worst. Consider the poet Adrienne Rich’s letter to The New York Review of Books, objecting to Sontag’s 1975 essay on Leni Riefenstahl, “Fascinating Fascism.” Dismissing Sontag’s suggestion that feminists bore some responsibility for turning Riefenstahl’s films into cultural monuments, Rich noted the “running criticism by radical feminists of male-identified ‘successful’ women, whether they are artists, executives, psychiatrists, Marxists, politicians, or scholars.” It was no accident, Rich implied, that “male-identified” values were embodied not just by Riefenstahl but by Sontag. The phenomena that Sontag was drawn to in her writing—the metamorphosis of people into objects, the obliteration of personality by style, the pursuit of perfection through domination and submission—were painted with the same broad brush of patriarchy, indicting the critic attracted to them.",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"The singular glamour of Susan Sontag has done her some injustice, particularly where matters of sex and gender are concerned. Suspicious of her celebrity, and convinced that her success had rendered her immune to the plights of ordinary women, her critics have characterized her relationship to the second sex as inconstant at best and faithless at worst. Consider the poet Adrienne Rich\\u2019s letter to The New York Review of Books, objecting to Sontag\\u2019s 1975 essay on Leni Riefenstahl, \\u201cFascinating Fascism.\\u201d Dismissing Sontag\\u2019s suggestion that feminists bore some responsibility for turning Riefenstahl\\u2019s films into cultural monuments, Rich noted the \\u201crunning criticism by radical feminists of male-identified \\u2018successful\\u2019 women, whether they are artists, executives, psychiatrists, Marxists, politicians, or scholars.\\u201d It was no accident, Rich implied, that \\u201cmale-identified\\u201d values were embodied not just by Riefenstahl but by Sontag. The phenomena that Sontag was drawn to in her writing\\u2014the metamorphosis of people into objects, the obliteration of personality by style, the pursuit of perfection through domination and submission\\u2014were painted with the same broad brush of patriarchy, indicting the critic attracted to them.\"}"
+ },
+ {
+  "prompt": "It’s true that Sontag didn’t quite ally herself with the radical-feminist movement. In her journal, she questioned its “inherited political rhetoric (that of gauchisme)” and its dismissal of the intellect as “bourgeois, phallo-centric, repressive.” “Like all capital moral truths, feminism is a bit simple-minded,” she wrote in her response to Rich. Yet, unless we consent to a moralizing litmus test of what it means to be a feminist, we should remain skeptical of the idea that, as Rich put it, Sontag’s writings on women were “an intellectual exercise” more than “the expression of a felt reality.” In a journal entry from 1972, Sontag noted that “women” was one of the three themes she had been studying all her life. (The other two were “China” and “freaks.”) And it was in the seventies that the subject moved to the heart of her writing.",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"It\\u2019s true that Sontag didn\\u2019t quite ally herself with the radical-feminist movement. In her journal, she questioned its \\u201cinherited political rhetoric (that of gauchisme)\\u201d and its dismissal of the intellect as \\u201cbourgeois, phallo-centric, repressive.\\u201d \\u201cLike all capital moral truths, feminism is a bit simple-minded,\\u201d she wrote in her response to Rich. Yet, unless we consent to a moralizing litmus test of what it means to be a feminist, we should remain skeptical of the idea that, as Rich put it, Sontag\\u2019s writings on women were \\u201can intellectual exercise\\u201d more than \\u201cthe expression of a felt reality.\\u201d In a journal entry from 1972, Sontag noted that \\u201cwomen\\u201d was one of the three themes she had been studying all her life. (The other two were \\u201cChina\\u201d and \\u201cfreaks.\\u201d) And it was in the seventies that the subject moved to the heart of her writing.\"}"
+ },
+ {
+  "prompt": "The historical explanation is straightforward enough. The years from 1968 to 1973 were the most publicly visible stretch of the women’s movement in the United States, years that appear to us now in an energetic sequence of film dissolves: women burning bras; women marching in the streets and swaying at candlelight vigils; women distributing mimeographed sheets with topics for consciousness-raising, including equal pay, domestic violence, housework, child care, and the right to an abortion; women thumbing through copies of “The Second Sex,” “The Feminine Mystique,” and “Sexual Politics.” Nearly every notable woman essayist opined on the movement, often by assuming a tone of cool, disdainful skepticism toward its goals and principles. Today, one reads essays like Elizabeth Hardwick’s curiously scattered “Women Re Women” or Joan Didion’s startlingly shallow “The Women’s Movement” with a vague sense of unease—or, quite simply, bafflement at their authors’ lack of fellow-feeling, their lack of interest in the conditions that touched their lives as profoundly as the lives of the women whom they condescended to so freely.",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"The historical explanation is straightforward enough. The years from 1968 to 1973 were the most publicly visible stretch of the women\\u2019s movement in the United States, years that appear to us now in an energetic sequence of film dissolves: women burning bras; women marching in the streets and swaying at candlelight vigils; women distributing mimeographed sheets with topics for consciousness-raising, including equal pay, domestic violence, housework, child care, and the right to an abortion; women thumbing through copies of \\u201cThe Second Sex,\\u201d \\u201cThe Feminine Mystique,\\u201d and \\u201cSexual Politics.\\u201d Nearly every notable woman essayist opined on the movement, often by assuming a tone of cool, disdainful skepticism toward its goals and principles. Today, one reads essays like Elizabeth Hardwick\\u2019s curiously scattered \\u201cWomen Re Women\\u201d or Joan Didion\\u2019s startlingly shallow \\u201cThe Women\\u2019s Movement\\u201d with a vague sense of unease\\u2014or, quite simply, bafflement at their authors\\u2019 lack of fellow-feeling, their lack of interest in the conditions that touched their lives as profoundly as the lives of the women whom they condescended to so freely.\"}"
+ },
+ {
+  "prompt": "In contrast, Sontag’s essays and interviews are forceful, sympathetic, exceedingly truthful, and capacious in their imagination of what a woman is or could be. In a different world, “On Women” would have been the collection that appeared between “Styles of Radical Will” (1969) and “Under the Sign of Saturn” (1980). The work gathered here represents an overlooked half decade of Sontag’s writing, much of it undertaken between her trip to Vietnam, in 1968, and her first cancer diagnosis, in 1975. Reading the book, one realizes that its pieces are bracketed by death—that Sontag’s entire notion of women was death-ridden, haunted by an awareness of mortality. “Thinking about my own death the other day, as I often do, I made a discovery,” she wrote in her journal, in 1974. “I realized that my way of thinking has up to now been both too abstract and too concrete. Too abstract: death. Too concrete: me. For there was a middle term, both abstract and concrete: women. I am a woman. And thereby, a whole new universe of death rose before my eyes.” The spectre of death spurred her to reconsider the relationship between the individual and the collective, between the lone woman and women as a historical category. And she did so in a style that was more restrained than the flamboyant, belligerent beauty of her earlier essays, as if to speak of women as a whole required her, in part, to efface her exceptional self.",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"In contrast, Sontag\\u2019s essays and interviews are forceful, sympathetic, exceedingly truthful, and capacious in their imagination of what a woman is or could be. In a different world, \\u201cOn Women\\u201d would have been the collection that appeared between \\u201cStyles of Radical Will\\u201d (1969) and \\u201cUnder the Sign of Saturn\\u201d (1980). The work gathered here represents an overlooked half decade of Sontag\\u2019s writing, much of it undertaken between her trip to Vietnam, in 1968, and her first cancer diagnosis, in 1975. Reading the book, one realizes that its pieces are bracketed by death\\u2014that Sontag\\u2019s entire notion of women was death-ridden, haunted by an awareness of mortality. \\u201cThinking about my own death the other day, as I often do, I made a discovery,\\u201d she wrote in her journal, in 1974. \\u201cI realized that my way of thinking has up to now been both too abstract and too concrete. Too abstract: death. Too concrete: me. For there was a middle term, both abstract and concrete: women. I am a woman. And thereby, a whole new universe of death rose before my eyes.\\u201d The spectre of death spurred her to reconsider the relationship between the individual and the collective, between the lone woman and women as a historical category. And she did so in a style that was more restrained than the flamboyant, belligerent beauty of her earlier essays, as if to speak of women as a whole required her, in part, to efface her exceptional self.\"}"
+ },
+ {
+  "prompt": "In Sontag’s essays, death assumes strange guises. Only rarely does it appear in the gruesome forms of rape and murder and slavery, as she imagined in her journal. (A tantalizing entry contains notes for an essay, never written, that she wanted to call “On Women Dying” or “How Women Die.”) Sometimes, as in “The Third World of Women,” her extraordinary 1972 interview with the leftist quarterly Libre, death was the will to self-annihilation of the entire global order, whose ideology of unlimited growth went hand in hand with “ever-increasing levels of productivity and consumption; the unlimited cannibalization of the environment.” Women and men alike were ensnared by this desire to accumulate—but women were additionally oppressed by the institution of the nuclear family, “a prison of sexual repression, a playing field of inconsistent moral laxity, a museum of possessiveness, a guilt-producing factory, and a school of selfishness.” The fact that the family was also the source of apparently unalienated values (“warmth, trust, dialogue, uncompetitiveness, loyalty, spontaneity, sexual pleasure, fun”) only increased its power.",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"In Sontag\\u2019s essays, death assumes strange guises. Only rarely does it appear in the gruesome forms of rape and murder and slavery, as she imagined in her journal. (A tantalizing entry contains notes for an essay, never written, that she wanted to call \\u201cOn Women Dying\\u201d or \\u201cHow Women Die.\\u201d) Sometimes, as in \\u201cThe Third World of Women,\\u201d her extraordinary 1972 interview with the leftist quarterly Libre, death was the will to self-annihilation of the entire global order, whose ideology of unlimited growth went hand in hand with \\u201cever-increasing levels of productivity and consumption; the unlimited cannibalization of the environment.\\u201d Women and men alike were ensnared by this desire to accumulate\\u2014but women were additionally oppressed by the institution of the nuclear family, \\u201ca prison of sexual repression, a playing field of inconsistent moral laxity, a museum of possessiveness, a guilt-producing factory, and a school of selfishness.\\u201d The fact that the family was also the source of apparently unalienated values (\\u201cwarmth, trust, dialogue, uncompetitiveness, loyalty, spontaneity, sexual pleasure, fun\\u201d) only increased its power.\"}"
+ },
+ {
+  "prompt": "In articulating this double diagnosis, Sontag was careful to distance herself from the rhetoric of the socialist and Marxist feminists of the era; there is, throughout the interview, a noticeable allergy to political radicalism, and a deep conviction that work may be a source of pride, affirmation, and distinction. Yet she also understood, just as those feminists did, that the integrity of the family depended on the exploitation of women’s unwaged, domestic labor. “Women who have gained the freedom to go out into ‘the world’ but still have the responsibility for marketing, cooking, cleaning, and the children when they return from work have simply doubled their labor,” she insisted. Liberation from death into life required a revolution that would overthrow the authoritarian moral habits that kept the division of labor—men at work, women in the home—intact.",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"In articulating this double diagnosis, Sontag was careful to distance herself from the rhetoric of the socialist and Marxist feminists of the era; there is, throughout the interview, a noticeable allergy to political radicalism, and a deep conviction that work may be a source of pride, affirmation, and distinction. Yet she also understood, just as those feminists did, that the integrity of the family depended on the exploitation of women\\u2019s unwaged, domestic labor. \\u201cWomen who have gained the freedom to go out into \\u2018the world\\u2019 but still have the responsibility for marketing, cooking, cleaning, and the children when they return from work have simply doubled their labor,\\u201d she insisted. Liberation from death into life required a revolution that would overthrow the authoritarian moral habits that kept the division of labor\\u2014men at work, women in the home\\u2014intact.\"}"
+ },
+ {
+  "prompt": "On December 10, 2019, the Austrian writer Peter Handke received the Nobel Prize in Literature. If he felt pride or triumph, he didn’t show it. His bow tie askance above an ill-fitting white dress shirt, his eyes unsmiling behind his trademark round glasses, Handke looked resigned and stoical, as if he were submitting to a bothersome medical procedure. As he accepted his award, some of the onlookers—not all of whom joined in the applause—appeared equally grim.",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"On December 10, 2019, the Austrian writer Peter Handke received the Nobel Prize in Literature. If he felt pride or triumph, he didn\\u2019t show it. His bow tie askance above an ill-fitting white dress shirt, his eyes unsmiling behind his trademark round glasses, Handke looked resigned and stoical, as if he were submitting to a bothersome medical procedure. As he accepted his award, some of the onlookers\\u2014not all of whom joined in the applause\\u2014appeared equally grim.\"}"
+ },
+ {
+  "prompt": "Handke embarked on his career, in the nineteen-sixties, as a provocateur, with absurdist theatrical works that eschewed action, character, and dialogue for, in the words of one critic, “anonymous, threatening rants.” One of his early plays, titled “Offending the Audience,” ends with the actors hurling insults at the spectators. In the following decades, as he produced dozens of plays and novels, he turned his experiments with language inward, exploring both its possibilities and its limitations in evoking human consciousness. W. G. Sebald, who was deeply influenced by Handke, wrote, “The specific narrative genre he developed succeeded by dint of its completely original linguistic and imaginative precision.”",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"Handke embarked on his career, in the nineteen-sixties, as a provocateur, with absurdist theatrical works that eschewed action, character, and dialogue for, in the words of one critic, \\u201canonymous, threatening rants.\\u201d One of his early plays, titled \\u201cOffending the Audience,\\u201d ends with the actors hurling insults at the spectators. In the following decades, as he produced dozens of plays and novels, he turned his experiments with language inward, exploring both its possibilities and its limitations in evoking human consciousness. W. G. Sebald, who was deeply influenced by Handke, wrote, \\u201cThe specific narrative genre he developed succeeded by dint of its completely original linguistic and imaginative precision.\\u201d\"}"
+ },
+ {
+  "prompt": "Handke’s novels, which he has called “narrative excursions or one-man expeditions,” often feature a man who shares characteristics with the author as he reflects on what he sees while journeying through a landscape. Episodic, with long stretches in which there is little to no action, the narratives arise out of a series of encounters—with people, animals, or simply ideas—that gradually accrue meaning. In “Repetition” (1986), often considered Handke’s masterpiece, the setting is his mother’s homeland—Slovenia, then part of Communist Yugoslavia. In his latest novel to appear in English, “The Fruit Thief” (Farrar, Straus & Giroux), which was published in German in 2017 and has been translated by Krishna Winston, we are in the countryside just north of Paris, not far from the suburb where Handke has lived for the past thirty years.",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"Handke\\u2019s novels, which he has called \\u201cnarrative excursions or one-man expeditions,\\u201d often feature a man who shares characteristics with the author as he reflects on what he sees while journeying through a landscape. Episodic, with long stretches in which there is little to no action, the narratives arise out of a series of encounters\\u2014with people, animals, or simply ideas\\u2014that gradually accrue meaning. In \\u201cRepetition\\u201d (1986), often considered Handke\\u2019s masterpiece, the setting is his mother\\u2019s homeland\\u2014Slovenia, then part of Communist Yugoslavia. In his latest novel to appear in English, \\u201cThe Fruit Thief\\u201d (Farrar, Straus & Giroux), which was published in German in 2017 and has been translated by Krishna Winston, we are in the countryside just north of Paris, not far from the suburb where Handke has lived for the past thirty years.\"}"
+ },
+ {
+  "prompt": "These novels, in their microscopic focus on the vagaries of the narrator’s perception, are almost aggressively nonpolitical, but it is politics that has made Handke notorious, producing the frowns at the Nobel ceremony. In early 1996, six months after Serbs massacred more than eight thousand Bosnian Muslims at Srebrenica—the greatest atrocity on European soil since the Holocaust—Handke took a trip through Serbia. In his travelogue, which appeared in English under the title “A Journey to the Rivers: Justice for Serbia,” Handke heaped scorn on the Western journalists who reported from Yugoslavia, accusing them of bias and corruption. In his account, the Serbs come across as charming, cultured hosts, their food delicious, their countryside pastoral, their political circumstances perplexing and unearned.",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"These novels, in their microscopic focus on the vagaries of the narrator\\u2019s perception, are almost aggressively nonpolitical, but it is politics that has made Handke notorious, producing the frowns at the Nobel ceremony. In early 1996, six months after Serbs massacred more than eight thousand Bosnian Muslims at Srebrenica\\u2014the greatest atrocity on European soil since the Holocaust\\u2014Handke took a trip through Serbia. In his travelogue, which appeared in English under the title \\u201cA Journey to the Rivers: Justice for Serbia,\\u201d Handke heaped scorn on the Western journalists who reported from Yugoslavia, accusing them of bias and corruption. In his account, the Serbs come across as charming, cultured hosts, their food delicious, their countryside pastoral, their political circumstances perplexing and unearned.\"}"
+ },
+ {
+  "prompt": "There was outrage from journalists and critics, but Handke doubled down. In the spring of 1999, as the U.S. and nato allies began a bombing campaign intended to drive the Serbs out of Kosovo, he visited Belgrade to demonstrate his support for Slobodan Milošević’s regime. A few months later, according to the American journalist Peter Maass, Handke was granted a Yugoslav passport. When Milošević died, in 2006, Handke delivered a eulogy at his funeral.",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"There was outrage from journalists and critics, but Handke doubled down. In the spring of 1999, as the U.S. and nato allies began a bombing campaign intended to drive the Serbs out of Kosovo, he visited Belgrade to demonstrate his support for Slobodan Milo\\u0161evi\\u0107\\u2019s regime. A few months later, according to the American journalist Peter Maass, Handke was granted a Yugoslav passport. When Milo\\u0161evi\\u0107 died, in 2006, Handke delivered a eulogy at his funeral.\"}"
+ },
+ {
+  "prompt": "Twenty-three years after Handke first waded into these troubled waters, the announcement of his Nobel Prize brought a further chorus of denunciation. The Holocaust scholar Deborah Lipstadt expressed concern that the prize would give legitimacy to his false claims; the former U.N. Ambassador Samantha Power, who had reported on Srebrenica as a journalist, tweeted that the genocide was an “undeniable fact.” A member of the Swedish Academy announced that he would boycott the proceedings. Handke remained uncowed. When Maass confronted him at the Nobel press conference, Handke dismissed his questions as “empty and ignorant.”",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"Twenty-three years after Handke first waded into these troubled waters, the announcement of his Nobel Prize brought a further chorus of denunciation. The Holocaust scholar Deborah Lipstadt expressed concern that the prize would give legitimacy to his false claims; the former U.N. Ambassador Samantha Power, who had reported on Srebrenica as a journalist, tweeted that the genocide was an \\u201cundeniable fact.\\u201d A member of the Swedish Academy announced that he would boycott the proceedings. Handke remained uncowed. When Maass confronted him at the Nobel press conference, Handke dismissed his questions as \\u201cempty and ignorant.\\u201d\"}"
+ },
+ {
+  "prompt": "Handke’s defenders argue that his Serbian adventure is essentially an excrescence, with little bearing on his work. The Austrian daily Die Presse opined that, as Handke’s work had “long been considered part of world literature,” the sad fact that he had “lost his way in the thicket of the Balkans” shouldn’t disqualify him from the Nobel. Yet perhaps the most distinctive quality of Handke’s art is that it has always been inseparable from the persona of its creator. A new collection of his essays, “Quiet Places” (Farrar, Straus & Giroux), demonstrates that, regardless of whether Handke labels a work fiction or nonfiction, his technique remains much the same—the tone discursive, the narratives eddying and associative, the point of view inward and subjective. Indeed, Handke has said that he wrote about Serbia “exactly as I have always written my books, my literature: a slow, inquiring narration; every paragraph dealing with and narrating a problem, of representation, of form, of grammar—of aesthetic veracity.” Rather than a departure from his literary work, Handke’s position on Serbia may be of a piece with it—a logical consequence of the postmodern experimentation for which he has long been celebrated.",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"Handke\\u2019s defenders argue that his Serbian adventure is essentially an excrescence, with little bearing on his work. The Austrian daily Die Presse opined that, as Handke\\u2019s work had \\u201clong been considered part of world literature,\\u201d the sad fact that he had \\u201clost his way in the thicket of the Balkans\\u201d shouldn\\u2019t disqualify him from the Nobel. Yet perhaps the most distinctive quality of Handke\\u2019s art is that it has always been inseparable from the persona of its creator. A new collection of his essays, \\u201cQuiet Places\\u201d (Farrar, Straus & Giroux), demonstrates that, regardless of whether Handke labels a work fiction or nonfiction, his technique remains much the same\\u2014the tone discursive, the narratives eddying and associative, the point of view inward and subjective. Indeed, Handke has said that he wrote about Serbia \\u201cexactly as I have always written my books, my literature: a slow, inquiring narration; every paragraph dealing with and narrating a problem, of representation, of form, of grammar\\u2014of aesthetic veracity.\\u201d Rather than a departure from his literary work, Handke\\u2019s position on Serbia may be of a piece with it\\u2014a logical consequence of the postmodern experimentation for which he has long been celebrated.\"}"
+ },
+ {
+  "prompt": "“The beginning of my writing,” Handke has said, was “the stories my mother told.” Born in 1942 in an impoverished provincial town in southern Austria, the illegitimate son of his mother and her married lover, he was raised by his mother and an abusive stepfather. His consolation as a child was her tales of people from her birthplace, known only as Stara Vas, or Old Village.",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"\\u201cThe beginning of my writing,\\u201d Handke has said, was \\u201cthe stories my mother told.\\u201d Born in 1942 in an impoverished provincial town in southern Austria, the illegitimate son of his mother and her married lover, he was raised by his mother and an abusive stepfather. His consolation as a child was her tales of people from her birthplace, known only as Stara Vas, or Old Village.\"}"
+ },
+ {
+  "prompt": "Handke likes to tell two of his mother’s stories as a pair: they show up in several of his works, including “The Fruit Thief.” In one, his mother’s younger brother runs away from a boarding school and walks home, a journey of some forty kilometres. He arrives in the middle of the night on a Saturday, which is the day that the courtyard gets swept. So the boy picks up a broom and sweeps until daybreak, when the family discovers him.",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"Handke likes to tell two of his mother\\u2019s stories as a pair: they show up in several of his works, including \\u201cThe Fruit Thief.\\u201d In one, his mother\\u2019s younger brother runs away from a boarding school and walks home, a journey of some forty kilometres. He arrives in the middle of the night on a Saturday, which is the day that the courtyard gets swept. So the boy picks up a broom and sweeps until daybreak, when the family discovers him.\"}"
+ },
+ {
+  "prompt": "The other story concerns a baby boy, the child of a “retarded milkmaid” who works on a local farm and was raped by the farmer. The farmer and his wife adopt the child, and the milkmaid is told to stay away from the boy, who grows up thinking that the farmer’s wife is his mother. One day, the milkmaid hears the boy screaming for help: he has got tangled in a barbed-wire fence. She runs over and unhooks him. Later, the little boy asks his presumed mother, “Why does the stupid girl have such gentle hands?”",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"The other story concerns a baby boy, the child of a \\u201cretarded milkmaid\\u201d who works on a local farm and was raped by the farmer. The farmer and his wife adopt the child, and the milkmaid is told to stay away from the boy, who grows up thinking that the farmer\\u2019s wife is his mother. One day, the milkmaid hears the boy screaming for help: he has got tangled in a barbed-wire fence. She runs over and unhooks him. Later, the little boy asks his presumed mother, \\u201cWhy does the stupid girl have such gentle hands?\\u201d\"}"
+ },
+ {
+  "prompt": "The mirrors reveal when it’s time to clean again. A thin layer of dust on the one in the bedroom, toothpaste and fingerprints on the one in the bathroom, which doubles as a cabinet door. All the windows become mirrors at the end of the day, when it takes a subtle adjustment of the eyes to look through yourself instead of at yourself. But the windows will never be cleaned; the most that can be hoped for is a hard, purifying rain. There’s a yellow streak of bird shit on the glass in the living room, crusted over now, and the kitchen window still bears the ghostly pattern that Angela once traced on the fogged-up surface while waiting for something on the stove, she can no longer remember what: a pot to boil, a formless egg to acquire edges and turn opaque, a single drop of oil to escape its pan and scald her out of her thoughts.",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"The mirrors reveal when it\\u2019s time to clean again. A thin layer of dust on the one in the bedroom, toothpaste and fingerprints on the one in the bathroom, which doubles as a cabinet door. All the windows become mirrors at the end of the day, when it takes a subtle adjustment of the eyes to look through yourself instead of at yourself. But the windows will never be cleaned; the most that can be hoped for is a hard, purifying rain. There\\u2019s a yellow streak of bird shit on the glass in the living room, crusted over now, and the kitchen window still bears the ghostly pattern that Angela once traced on the fogged-up surface while waiting for something on the stove, she can no longer remember what: a pot to boil, a formless egg to acquire edges and turn opaque, a single drop of oil to escape its pan and scald her out of her thoughts.\"}"
+ },
+ {
+  "prompt": "Since when does Angela care about cleaning? The other day, at dinner with a friend, she found herself extolling the virtues of a certain type of mop. She recently learned several methods for removing stains from supposedly stainless steel. She has even wished, on occasion, that she owned an iron.",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"Since when does Angela care about cleaning? The other day, at dinner with a friend, she found herself extolling the virtues of a certain type of mop. She recently learned several methods for removing stains from supposedly stainless steel. She has even wished, on occasion, that she owned an iron.\"}"
+ },
+ {
+  "prompt": "Clare Sestanovich on routine and rupture.",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"Clare Sestanovich on routine and rupture.\"}"
+ },
+ {
+  "prompt": "Angela doesn’t like the therapist. Why are they talking about satisfaction when they could be talking about happiness?\n\nWhen I was your age—",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"Angela doesn\\u2019t like the therapist. Why are they talking about satisfaction when they could be talking about happiness?\\n\\nWhen I was your age\\u2014\"}"
+ },
+ {
+  "prompt": "At age six, Angela’s mother watched the apartment building where she and her parents lived burn to the ground. At age six, Angela moved into a new house, with her very own bedroom. She was afraid to fall asleep in it, her heart beating wildly in the dark.",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"At age six, Angela\\u2019s mother watched the apartment building where she and her parents lived burn to the ground. At age six, Angela moved into a new house, with her very own bedroom. She was afraid to fall asleep in it, her heart beating wildly in the dark.\"}"
+ },
+ {
+  "prompt": "At eleven, Angela’s mother worked all afternoon in her stepfather’s laundromat, where he occasionally slid his hand under her shirt or, in the summertime, up the loose openings in her shorts. She started wearing pants all year round. At eleven, Angela tried to pretend that her nipples, which had puffed up and made two tiny tents in her T-shirt, did not exist. Once (but only once), a boy in her class pinched the left tent between his thumb and his index finger, and then it definitely existed.",
+  "label": "{\"task\": \"word_diversity\", \"prompt\": \"At eleven, Angela\\u2019s mother worked all afternoon in her stepfather\\u2019s laundromat, where he occasionally slid his hand under her shirt or, in the summertime, up the loose openings in her shorts. She started wearing pants all year round. At eleven, Angela tried to pretend that her nipples, which had puffed up and made two tiny tents in her T-shirt, did not exist. Once (but only once), a boy in her class pinched the left tent between his thumb and his index finger, and then it definitely existed.\"}"
+ }
+]

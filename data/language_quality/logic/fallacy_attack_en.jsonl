@@ -1,0 +1,52 @@
+{"label": 0, "prompt": "Birds can fly, penguins are birds, so", "annotation": "Penguins are birds,","answer":"penguins can't fly."}
+{"label": 16, "prompt": "Trains can travel fast on rails, cars have wheels, so", "annotation": "Cars have wheels,", "answer": "cars can't drive on rails"}
+{"label": 17, "prompt": "Fish can breathe underwater, cats are animals, so", "annotation": "Cats are animals,", "answer": "cat can't breathe underwater"}
+{"label": 18, "prompt": "Some people can run 500 meters in 10 seconds, Xiao Ming is a person, so", "annotation": "Xiao Ming is a person,", "answer": "Xiao Ming cannot run 500 meters in 10 seconds."}
+{"label": 19, "prompt": "The elephant is the largest animal on land, the whale is an animal, so", "annotation": "Whales are animals,", "answer": "whale is the largest animals in the sea."}
+{"label": 20, "prompt": "The sun rises from the east every day, the moon is in the sky, so", "annotation": "The moon is in the sky,", "answer": "The moon rises in the east every day, but the position of the moon's rise is not fixed, but varies with the dates of the lunar calendar."}
+{"label": 21, "prompt": "People can speak, babies are people, so", "annotation": "Babies are people,", "answer": "babies cannot speak"}
+{"label": 22, "prompt": "All books are made of paper, e-books are books, so", "annotation": "E-books are books,", "answer": "e-books are not made of paper"}
+{"label": 23, "prompt": "Most mammals have hair, whales are mammals, so", "annotation": "Whales are mammals,", "answer": "whales don't have hair"}
+{"label": 24, "prompt": "Birds don't swim, penguins are birds, so", "annotation": "Penguins are birds,", "answer": "penguins can swim"}
+{"label": 25, "prompt": "Aircraft have wings, helicopters are aircraft, so", "annotation": "Helicopters are aircraft,", "answer": "helicopters don't have wings"}
+{"label": 26, "prompt": "Software needs to be installed separately, the operating system is software, so", "annotation": "The operating system is software,", "answer": "The operating system donot need to be installed separately."}
+{"label": 27, "prompt": "Transportation tools need fuel, bicycles are transportation tools, so", "annotation": "Bicycles are transportation tools,", "answer": "Bicycles don't need fuel."}
+{"label": 28, "prompt": "Metals are conductive, there are metal parts on wooden chairs, so", "annotation": "There are metal parts on wooden chairs,", "answer": "wooden chairs do not conductive"}
+{"label": 0, "prompt": "Most animals have four legs, snakes are animals, so", "annotation": "snakes are animals,", "answer":"Snakes don't have four legs."}
+{"label": 0, "prompt": "Birds can fly, ostriches are birds, so", "annotation": "ostriches are birds,", "answer": "ostriches cannot fly"}
+{"label": 0, "prompt": "Fruit trees can bear fruit, cacti are plants, so", "annotation": "cacti are plants,", "answer": "cacti do not bear fruit"}
+{"label": 0, "prompt": "Metals are generally hard, aluminum foil is metal, so", "annotation": "aluminum foil is metal,", "answer": "aluminum foil is not hard"}
+{"label": 0, "prompt": "Clocks have hands, digital clocks are clocks, so", "annotation": "digital clocks are clocks,", "answer": "digital clocks do not have hands"}
+{"label": 0, "prompt": "Most flowers bloom in spring, plum blossoms are also flowers, so", "annotation": "plum blossoms are also flowers,", "answer": "plum blossoms usually bloom in winter"}
+{"label": 0, "prompt": "Most aircraft have wings, hot air balloons are a kind of aircraft, so", "annotation": "hot air balloons are a kind of aircraft,", "answer": "hot air balloons do not have wings"}
+{"label": 0, "prompt": "The seawater on earth is salty, sea ice comes from seawater, so", "annotation": "sea ice comes from seawater,", "answer": "sea ice is not salty"}
+{"label": 0, "prompt": "Plants need sunlight for photosynthesis, mushrooms are organisms, so", "annotation": "mushrooms are organisms,", "answer": "mushrooms do not photosynthesize"}
+{"label": 0, "prompt": "Most substances are solid at room temperature, water is a substance, so", "annotation": "water is a substance,", "answer": "water is liquid at room temperature"}
+{"label": 0, "prompt": "People on the American continent usually speak Spanish, Brazil is a country on the American continent, so", "annotation": "Brazil is a country on the American continent,", "answer": "Brazil primarily speaks Portuguese"}
+{"label": 0, "prompt": "Most islands are surrounded by seawater, inland lake islands are islands, so", "annotation": "inland lake islands are islands,", "answer": "inland lake islands are surrounded by freshwater"}
+{"label": 0, "prompt": "Aircraft have engines, paragliders are flying equipment, so", "annotation": "paragliders are flying equipment,", "answer": "paragliders do not have engines"}
+{"label": 0, "prompt": "Most fruits are sweet, avocados are also fruits, so", "annotation": "avocados are also fruits,", "answer": "avocados are not sweet"}
+{"label": 0, "prompt": "Water often exists in liquid form, ice is a form of water, so", "annotation": "ice is a form of water,", "answer": "ice exists in solid form"}
+{"label": 0, "prompt": "People need to breathe gas to survive, coal gas is also gas, so", "annotation": "coal gas is also gas,", "answer": "coal gas is not safe for people to breathe"}
+{"label": 0, "prompt": "People observe the world with both eyes, blind people are also people, so", "annotation": "blind people are also people,", "answer": "blind people cannot observe the world with their eyes"}
+{"label": 0, "prompt": "Plants usually get their energy from photosynthesis, carnivorous plants like pitcher plants are also plants, so", "annotation": "carnivorous plants like pitcher plants are also plants,", "answer": "carnivorous plants get energy from digesting insects"}
+{"label": 0, "prompt": "Power plants mostly generate electricity through thermal power, hydroelectric power stations are also power plants, so", "annotation": "hydroelectric power stations are also power plants,", "answer": "Hydroelectric power stations generate electricity through hydroelectric power"}
+{"label": 0, "prompt": "Bacteria often cause diseases in humans, probiotics are also bacteria, so", "annotation": "probiotics are also bacteria,", "answer": "probiotics are beneficial to human health and do not cause diseases"}
+{"label": 0, "prompt": "Humans acquire sound through ears, deaf people are also humans, so", "annotation": "deaf people are also humans,", "answer": "deaf people cannot acquire sound through their ears"}
+{"label": 0, "prompt": "People communicate with each other through mobile phones, ancient people are also people, so", "annotation": "ancient people are also people,", "answer": "ancient people, did not communicate through mobile phones"}
+{"label": 0, "prompt": "Sailing ships are boats that move by wind power, aircraft carriers are also boats, so", "annotation": "aircraft carriers are also boats,", "answer": "aircraft carriers move by engine power"}
+{"label": 0, "prompt": "Argentina is a world football powerhouse, China also has many people who love football, so", "annotation": "China also has many people who love football,", "answer": "China is not considered a football powerhouse like Argentina"}
+{"label": 0, "prompt": "Brushes are usually used to write on rice paper, pencils are also pens, so", "annotation": "pencils are also pens,", "answer": "pencils are not typically used to write on rice paper"}
+{"label": 0, "prompt": "Chrysanthemums bloom in autumn, winter jasmine is also a flower, so", "annotation": "winter jasmine is also a flower,", "answer": "winter jasmine blooms in winter, not autumn"}
+{"label": 0, "prompt": "The duty of doctors is to treat humans, veterinarians are also doctors, so", "annotation": "veterinarians are also doctors,", "answer": "veterinarians treat animals, not humans"}
+{"label": 0, "prompt": "Chinese characters contain radicals and components, English characters are also characters, so", "annotation": "English characters are also characters,", "answer": "English characters do not contain radicals and components like Chinese characters"}
+{"label": 0, "prompt": "Over 80% of the total number of animals are arthropods, carp are also animals, so", "annotation": "carp are also animals,", "answer": "car are not arthropods"}
+{"label": 0, "prompt": "Qin Shi Huang built terracotta warriors for himself, Emperor Wu of Han is also an emperor, so", "annotation": "Emperor Wu of Han is also an emperor,", "answer": "Emperor Wu of Han did not build terracotta warriors for himself"}
+{"label": 0, "prompt": "Trees lose their leaves in autumn, pine trees are also trees, so", "annotation": "pine trees are also trees,", "answer": "pine trees do not lose their leaves in autumn as they are evergreen"}
+{"label": 0, "prompt": "Meri Snow Mountain is covered with snow all year round, Mount Tai is also a mountain, so", "annotation": "Mount Tai is also a mountain,", "answer": "Mount Tai is not covered with snow all year round"}
+{"label": 0, "prompt": "Polar bears live in glaciers, there are also glaciers in the Antarctic, so", "annotation": "there are also glaciers in the Antarctic,", "answer": "Polar bears live in the Arctic"}
+{"label": 0, "prompt": "Penguins live in glaciers, there are also glaciers in the Arctic, so", "annotation": "there are also glaciers in the Arctic,", "answer": "penguins are native to the Antarctic"}
+{"label": 0, "prompt": "People travel long distances by plane, ancient people are also people, so", "annotation": "ancient people are also people,", "answer": "Ancient people did not travel long distances by plane"}
+{"label": 0, "prompt": "Some vehicles can carry up to fifty passengers, sedans are also vehicles, so", "annotation": "sedans are also vehicles,", "answer": "Sedans typically cannot carry up to fifty passengers"}
+{"label": 0, "prompt": "Mail is delivered by postmen, email is also mail, so", "annotation": "email is also mail,", "answer": "Email is not delivered by postmen"}
+{"label": 0, "prompt": "You need to change into sports shoes before exercising, swimming is also a sport, so", "annotation": "swimming is also a sport,", "answer": "Swimming does not require sports shoes"}
