@@ -34,3 +34,18 @@ You need to run the `backend\freq_flask.py` first for evaluation.
 Other code of F-Eval is released in the later version of Opencompass. After getting original results, you can
 run `postprocess\merge_results.py` and `postprocess\normalize_results.py` to get the uniform results of each dataset.
 Then you can run `postprocess\normalize.py` to get the final results.
+
+## Citation
+
+If you find this repo useful, please cite with the following bibtex:
+
+```
+@misc{sun2024feval,
+      title={F-Eval: Asssessing Fundamental Abilities with Refined Evaluation Methods}, 
+      author={Yu Sun and Keyu Chen and Shujie Wang and Qipeng Guo and Hang Yan and Xipeng Qiu and Xuanjing Huang and Dahua Lin},
+      year={2024},
+      eprint={2401.14869},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
