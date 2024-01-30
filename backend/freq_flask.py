@@ -326,11 +326,9 @@ class Evaluators:
         self.non_english_word_score = None  # Used for English word, None for not account, otherwise it's a score in [0, 1]
 
         self.chinese_ppl_tokenizer = AutoTokenizer.from_pretrained(
-            "deepseek-llm-7b-base")
+            "/cpfs01/shared/public/chenkeyu1/models/deepseek-llm-7b-base")
         self.chinese_ppl_model = AutoModelForCausalLM.from_pretrained(
-            "deepseek-llm-7b-base", device_map="auto", trust_remote_code=True)
-        # self.chinese_ppl_tokenizer = AutoTokenizer.from_pretrained("baichuan-inc/Baichuan2-7B-Chat", use_fast=False, trust_remote_code=True)
-        # self.chinese_ppl_model = AutoModelForCausalLM.from_pretrained("baichuan-inc/Baichuan2-7B-Chat", device_map="auto", trust_remote_code=True)
+            "/cpfs01/shared/public/chenkeyu1/models/deepseek-llm-7b-base", device_map="auto", trust_remote_code=True)
         self.ppl_pentaly = 10.0
 
     def score_nll(self, predictions: List, references: Optional[List] = None) -> Dict:
@@ -558,5 +556,6 @@ def index():
 
 
 if __name__ == "__main__":
-    CORS(app)
+    # CORS(app)
+    CORS(app, resources=r'/*')
     app.run(port=5001, debug=False, host='0.0.0.0')
