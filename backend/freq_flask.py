@@ -136,8 +136,7 @@ def contradiction_nli_evaluator():
             prefix_sent += ' ' + sent
         return contradiction_pairs
 
-    num_pairs = 0
-    num_contradiction = 0
+    scores = []
     details = []
     for idx, pred in enumerate(predictions):
         # load model and text split
@@ -151,6 +150,7 @@ def contradiction_nli_evaluator():
         nlp = spacy.load(split_model)
         label_num = [0, 0, 0]
         # split sentences
+        # print(references[idx], pred)
         all_text = references[idx] + ' ' + pred
         sents = nlp(all_text)
         sents = [sent.text for sent in sents.sents]
@@ -167,22 +167,22 @@ def contradiction_nli_evaluator():
             label_names = ["entailment", "neutral", "contradiction"]
             prediction = {name: round(float(pred) * 100, 1) for pred, name in zip(prediction, label_names)}
             label_num[label] += 1
-        num_pairs += len(contradiction_pairs)
-        num_contradiction += label_num[2]
 
         detail = {'pred': pred, 'answer': references[idx], 'correct': {}}
         if len(contradiction_pairs) == 0:
-            detail['correct']['contradiction'] = 0
+            detail['correct']['contradiction'] = 1
             detail['correct']['neutral'] = 0
             detail['correct']['entailment'] = 0
+            scores.append(1)
         else:
             detail['correct']['contradiction'] = label_num[2] / len(contradiction_pairs)
             detail['correct']['neutral'] = label_num[1] / len(contradiction_pairs)
             detail['correct']['entailment'] = label_num[0] / len(contradiction_pairs)
+            scores.append(label_num[2] / len(contradiction_pairs))
         details.append(detail)
     result = {
         'details': details,
-        'contradiction_score': num_contradiction / num_pairs,
+        'contradiction_score': sum(scores) / len(scores),
     }
     return jsonify(result)
 
