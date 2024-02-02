@@ -1,12 +1,6 @@
 # Postprocess
 
-This folder contains the postprocess of the results computed by Opencompass. The code of F-Eval
-in Opencompass is coming soon.
+After getting original results by OpenCompass, you can get the original results of each dataset in `results` folder.
+Since the results of some subtasks are computed by different languages, we need to merge them into a single file by
+running `merge_results.py`. Then we need to normalize them into the same scale by `normalize.py` to get the final score.
 
-## Merge Results
-
-Since the results of some subtasks are computed by different scripts, we need to merge them into a single file.
-
-## Normalize Results
-
-The results of different subtasks are in different scales. We need to normalize them into the same scale.

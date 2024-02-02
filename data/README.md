@@ -1,6 +1,6 @@
 # Dataset
 
-The dataset in F-Eval. The dataset is in the format of [jsonlines](https://jsonlines.org/).
+The overall and selected dataset in F-Eval. You can download here and put them into OpenCompass folder.
 
 ```tree
 data
@@ -11,7 +11,6 @@ data
   ├─select_data  // The selected dataset for correlation and distinction
   │   ├─commonsense
   │   ├─expression
-  │   ├─logic_human
-  │   └─reference  // The reference dataset for correlation on reference-free subjective tasks
+  │   └─logic
   └─param.json  // The parameters for the normalization of each subdataset
 ```
