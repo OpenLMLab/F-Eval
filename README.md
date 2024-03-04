@@ -8,13 +8,13 @@ The code of F-Eval will be released in the later version
 of [OpenCompass 2.0](https://github.com/open-compass/opencompass). This repo only contains the dataset, the backend and
 the postprocess code of F-Eval.
 
-<img src="https://s11.ax1x.com/2024/01/26/pFmvkUx.png" width="65%" height="70%">
+<img src="https://s11.ax1x.com/2024/01/26/pFmvkUx.png" width="63%" height="63%">
 
 ## Dataset
 
 The statistics of the datasets.
 
-<img src="https://s11.ax1x.com/2024/03/04/pFDA1OJ.png" width="95%" height="95%">
+<img src="https://s11.ax1x.com/2024/03/04/pFDA1OJ.png" width="90%" height="90%">
 
 An example of the rule-following dataset.
 
@@ -33,7 +33,7 @@ found in our [paper](https://arxiv.org/abs/2401.14869).
 The following is a comparison of the correlation coefficients between subjective evaluation methods used in F-Eval and
 other subjective evaluation methods.
 
-<img src="https://s11.ax1x.com/2024/03/04/pFDANY6.png" width="95%" height="95%">
+<img src="https://s11.ax1x.com/2024/03/04/pFDANY6.png" width="90%" height="90%">
 
 ## How to evaluate on F-Eval
 
