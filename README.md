@@ -32,8 +32,8 @@ found in our [paper](https://arxiv.org/abs/2401.14869).
 
 <img src="https://s11.ax1x.com/2024/01/26/pFnNkwD.png" width="95%" height="95%">
 
-The following is a comparison of the correlation coefficients between subjective evaluation methods used in F-Eval and
-other subjective evaluation methods.
+The following is a comparison of the Pearson (r) and Spearman (ρ) correlation coefficients between subjective evaluation
+methods used in F-Eval and other subjective evaluation methods.
 
 <div style="text-align:center;">
 <img src="https://s11.ax1x.com/2024/03/04/pFDANY6.png" width="90%" height="90%">
