@@ -65,8 +65,7 @@ OpenCompass. `f_eval_api.py` is used to evaluate the reference-based subjective 
 models. `f_eval_other.py` is used to evaluate the other datasets.
 
 You can directly run the following commands to get the results of F-Eval. Detailed usage of evaluation on OpenCompass
-can be found in
-the [OpenCompass](https://github.com/open-compass/opencompass) repo.
+can be found in the [OpenCompass](https://github.com/open-compass/opencompass) repo.
 
 ```shell
 python -u run.py configs/eval_f_eval/f_eval_api.py -s -r
