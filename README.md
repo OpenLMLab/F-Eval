@@ -14,7 +14,9 @@ the postprocess code of F-Eval.
 
 The statistics of the datasets.
 
+<div style="text-align:center;">
 <img src="https://s11.ax1x.com/2024/03/04/pFDA1OJ.png" width="90%" height="90%">
+</div>
 
 An example of the rule-following dataset.
 
@@ -33,7 +35,9 @@ found in our [paper](https://arxiv.org/abs/2401.14869).
 The following is a comparison of the correlation coefficients between subjective evaluation methods used in F-Eval and
 other subjective evaluation methods.
 
+<div style="text-align:center;">
 <img src="https://s11.ax1x.com/2024/03/04/pFDANY6.png" width="90%" height="90%">
+</div>
 
 ## How to evaluate on F-Eval
 
