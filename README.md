@@ -14,23 +14,7 @@ the postprocess code of F-Eval.
 
 The statistics of the datasets.
 
-| Dimension   | Sub-dataset         | #Samples English | #Samples Chinese | Task Format                | Settings         |
-|-------------|---------------------|------------------|------------------|----------------------------|------------------|
-| Expression  | Word Diversity      | 51               | 102              | reference-free subjective  | zero-shot        |
-| Expression  | Informative         | 72               | 111              | reference-free subjective  | zero-shot        |
-| Expression  | Rule Following      | 66               | 75               | open-ended objective       | zero-shot        |
-| Expression  | Emotion Consistency | 70               | 80               | reference-free subjective  | zero-shot        |
-| Commonsense | Commonsense Triple  | 84               | 66               | reference-based subjective | few-shot (k=5)   |
-| Commonsense | CommonsenseQA       | 74               | 76               | multi-choice objective     | zero-shot        |
-| Commonsense | TextbookQA          | 75               | 76               | reference-based subjective | zero-shot        |
-| Commonsense | Story               | 75               | 75               | multi-choice objective     | zero-shot        |
-| Commonsense | Instruction         | 80               | 70               | reference-based subjective | zero-shot        |
-| Logic       | ICL                 | 75               | 75               | open-ended objective       | few-shot (k=0,4) |
-| Logic       | COT                 | 80               | 80               | open-ended objective       | zero-shot        |
-| Logic       | Fallacy Attack      | 52               | 52               | reference-based subjective | zero-shot        |
-| Logic       | Contradiction       | 75               | 75               | reference-free subjective  | zero-shot        |
-| Logic       | Coreference         | 57               | 58               | open-ended objective       | few-shot (k=4)   |
-| Logic       | Anomaly Detection   | 79               | 75               | multi-choice objective     | zero-shot        |
+<img src="https://s11.ax1x.com/2024/03/04/pFDA1OJ.png" width="85%" height="85%">
 
 An example of the rule-following dataset.
 
@@ -45,6 +29,11 @@ Below are the overall results of F-Eval across three dimensions. More details of
 found in our [paper](https://arxiv.org/abs/2401.14869).
 
 <img src="https://s11.ax1x.com/2024/01/26/pFnNkwD.png" width="95%" height="95%">
+
+The following is a comparison of the correlation coefficients between subjective evaluation methods used in F-Eval and
+other subjective evaluation methods.
+
+<img src="https://s11.ax1x.com/2024/03/04/pFDANY6.png" width="85%" height="85%">
 
 ## How to evaluate on F-Eval
 
@@ -69,9 +58,10 @@ python backend/freq_flask.py
 
 The main evaluation python files are in the `configs/eval_f_eval` folder in
 OpenCompass. `f_eval_api.py` is used to evaluate the reference-based subjective datasets which are evaluated by API
-models. `f_eval_other.py` is used to evaluate the other datasets. 
+models. `f_eval_other.py` is used to evaluate the other datasets.
 
-You can directly run the following commands to get the results of F-Eval. Detailed usage of evaluation on OpenCompass can be found in
+You can directly run the following commands to get the results of F-Eval. Detailed usage of evaluation on OpenCompass
+can be found in
 the [OpenCompass](https://github.com/open-compass/opencompass) repo.
 
 ```shell
