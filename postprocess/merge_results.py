@@ -11,7 +11,6 @@ combined_datasets = [
     'word-diversity',
     'emotion'
 ]
-
 split_datasets = [
     'commonsense_triple',
     'commonsenseqa',
@@ -25,6 +24,7 @@ split_datasets = [
     'coreference',
     'anaomaly_detection'
 ]
+
 # all test models
 models = [
     'LLama2-7B', 'LLama2-13B',

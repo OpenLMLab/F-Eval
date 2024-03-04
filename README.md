@@ -50,29 +50,33 @@ found in our [paper](https://arxiv.org/abs/2401.14869).
 
 ### Getting Started
 
-**Step 1. Run the backend server.**
+**Step 1. Prepare the dataset.**
 
-Before running evaluation file in OpenCompass, please ensure a backend server is running.
+The overall dataset with 2211 samples is in the `data/f_eval` folder. The selected dataset that is used for
+analysis is in `data/select_data`.
+
+Please download the dataset from the github repo and put it in the `data` folder under OpenCompass folder.
+
+**Step 2. Run the backend server.**
+
+Before running evaluation files in OpenCompass, please ensure a backend server is running.
 
 ```shell
 python backend/freq_flask.py
 ```
 
-**Step 2. Prepare the dataset.**
-
-The overall dataset with 2211 samples is in the `data/language_quality` folder. The selected dataset that is used for
-analysis is in `data/select_data`.
-
-Please download the dataset from the github repo and put it in the `data` folder under OpenCompass folder.
-
 **Step 3. Run the evaluation file in OpenCompass.**
 
-The main evaluation program entry is `configs/eval_language_quality/eval_language_quality.py` in the later version of
-OpenCompass. Detailed usage of evaluation on OpenCompass can be found in
+The main evaluation python files are in the `configs/eval_f_eval` folder in
+OpenCompass. `f_eval_api.py` is used to evaluate the reference-based subjective datasets which are evaluated by API
+models. `f_eval_other.py` is used to evaluate the other datasets. 
+
+You can directly run the following commands to get the results of F-Eval. Detailed usage of evaluation on OpenCompass can be found in
 the [OpenCompass](https://github.com/open-compass/opencompass) repo.
 
 ```shell
-python -u run.py configs/eval_language_quality/eval_language_quality.py -p llm2_t -s -r
+python -u run.py configs/eval_f_eval/f_eval_api.py -s -r
+python -u run.py configs/eval_f_eval/f_eval_other.py -s -r
 ```
 
 **Step 4. Postprocess the results.**
