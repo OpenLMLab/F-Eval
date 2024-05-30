@@ -60,12 +60,12 @@ python backend/freq_flask.py
 
 **Step 3. Run the evaluation file in OpenCompass.**
 
-The main evaluation python files are in the `configs/eval_f_eval` folder in
-OpenCompass. `f_eval_api.py` is used to evaluate the reference-based subjective datasets which are evaluated by API
+The main evaluation python files are in the `configs/eval_f_eval` folder in the forked [OpenCompass](https://github.com/yusun-nlp/opencompass). `f_eval_api.py` is
+used to evaluate the reference-based subjective datasets which are evaluated by API
 models. `f_eval_other.py` is used to evaluate the other datasets.
 
 You can directly run the following commands to get the results of F-Eval. Detailed usage of evaluation on OpenCompass
-can be found in the [OpenCompass](https://github.com/open-compass/opencompass) repo.
+can be found in the OpenCompass repo.
 
 ```shell
 python -u run.py configs/eval_f_eval/f_eval_api.py -s -r
