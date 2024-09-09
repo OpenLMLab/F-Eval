@@ -1,4 +1,4 @@
-# *F-Eval: Asssessing Fundamental Abilities with Refined Evaluation Methods*
+# *F-Eval: Assessing Fundamental Abilities with Refined Evaluation Methods*
 
 F-Eval is a bilingual evaluation benchmark to evaluate the fundamental abilities, including expression, commonsense and
 logic. It consists of 2211 instances in both English and Chinese. Please visit
